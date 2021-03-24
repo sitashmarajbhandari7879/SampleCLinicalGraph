@@ -1,0 +1,1001 @@
+ID,:LABEL,name,family,synonyms,taxid
+ATG4C,Gene,autophagy related 4C cysteine peptidase,Autophagy related,"84938,ENSG00000125703,OTTHUMG00000009142,uc001dat.5,AK027773",9606
+GAPDHP19,Gene,glyceraldehyde 3 phosphate dehydrogenase pseudogene 19,,"140028,ENSG00000234529,OTTHUMG00000036502,,",9606
+TRAM2-AS1,Gene,TRAM2 antisense RNA 1 (head to head),Antisense RNAs,"401264,ENSG00000225791,OTTHUMG00000014849,,",9606
+PRIM1,Gene,DNA primase subunit 1,,"5557,ENSG00000198056,OTTHUMG00000170034,uc001smd.4,BC005266",9606
+KRTAP19-2,Gene,keratin associated protein 19-2,Keratin associated proteins,"337969,ENSG00000186965,OTTHUMG00000057772,uc011acy.3,AP001708",9606
+VN1R93P,Gene,vomeronasal 1 receptor 93 pseudogene,Vomeronasal receptors,"100312838,ENSG00000269320,OTTHUMG00000183386,,",9606
+OR2V2,Gene,olfactory receptor family 2 subfamily V member 2,"Olfactory receptors, family 2","285659,ENSG00000182613,OTTHUMG00000130933,uc011dhj.2,AL161615",9606
+UBA2,Gene,ubiquitin like modifier activating enzyme 2,Ubiquitin like modifier activating enzymes,"10054,ENSG00000126261,OTTHUMG00000182090,uc002nvk.4,BC003153",9606
+GLULP5,Gene,glutamate-ammonia ligase pseudogene 5,,"100421694,ENSG00000257915,OTTHUMG00000169479,,",9606
+MIR7160,Gene,microRNA 7160,MicroRNAs,"102465695,ENSG00000273593,,,",9606
+SULF2,Gene,sulfatase 2,Sulfatases,"55959,ENSG00000196562,OTTHUMG00000032675,uc002xto.4,AY101176",9606
+ADAD1P1,Gene,adenosine deaminase domain containing 1 pseudogene 1,,"100422386,,,,",9606
+SEPTIN14P13,Gene,septin 14 pseudogene 13,,"106481733,ENSG00000224813,OTTHUMG00000002857,,",9606
+PTGDR2,Gene,prostaglandin D2 receptor 2,"""Prostaglandin receptors|CD molecules""","11251,ENSG00000183134,OTTHUMG00000167796,uc001nqc.3,AF118265",9606
+GLIPR1,Gene,GLI pathogenesis related 1,GLIPR family ,"11010,ENSG00000139278,OTTHUMG00000169757,uc001sxs.4,U16307",9606
+LRRC32,Gene,leucine rich repeat containing 32,,"2615,ENSG00000137507,OTTHUMG00000133687,uc001oxr.4,Z24680",9606
+PADI2,Gene,peptidyl arginine deiminase 2,Peptidyl arginine deiminases,"11240,ENSG00000117115,OTTHUMG00000002295,uc001baf.4,AB030176",9606
+EXD1,Gene,exonuclease 3'-5' domain containing 1,,"161829,ENSG00000178997,OTTHUMG00000130232,uc001znk.5,BC030628",9606
+ZBP1,Gene,Z-DNA binding protein 1,,"81030,ENSG00000124256,OTTHUMG00000032824,uc002xyo.4,AJ300575",9606
+ZNF580,Gene,zinc finger protein 580,Zinc fingers C2H2-type,"51157,ENSG00000213015,OTTHUMG00000180868,uc002qlo.4,AF184939",9606
+LINC01968,Gene,long intergenic non-protein coding RNA 1968,Long intergenic non-protein coding RNAs,"100507391,ENSG00000237222,OTTHUMG00000156020,,",9606
+ARPIN-AP3S2,Gene,ARPIN-AP3S2 readthrough,,"100526783,ENSG00000250021,OTTHUMG00000162161,uc002bos.5,",9606
+RNU6-917P,Gene,"RNA, U6 small nuclear 917, pseudogene",,"106479971,ENSG00000252103,,,",9606
+SEC63,Gene,"SEC63 homolog, protein translocation regulator",DNAJ (HSP40) heat shock proteins,"11231,ENSG00000025796,OTTHUMG00000015316,uc003psc.5,BC048287",9606
+PCDHGB2,Gene,"protocadherin gamma subfamily B, 2",Clustered protocadherins,"56103,ENSG00000253910,OTTHUMG00000163682,uc003ljs.3,AF152331",9606
+ARHGAP5-AS1,Gene,ARHGAP5 antisense RNA 1 (head to head),Antisense RNAs,"84837,ENSG00000258655,OTTHUMG00000170588,uc010amk.4,BC007251",9606
+FAM183EP,Gene,"family with sequence similarity 183 member E, pseudogene",,"107403081,,,,",9606
+FGFR3P4,Gene,fibroblast growth factor receptor 3 pseudogene 4,,"100420833,,,,",9606
+SLC6A14P2,Gene,SLC6A14 pseudogene 2,,"100462652,ENSG00000237860,,,",9606
+MT-TS2,Gene,mitochondrially encoded tRNA-Ser (AGU/C) 2,Mitochondrially encoded transfer RNAs,"4575,ENSG00000210184,,uc004cow.3,",9606
+RPL18P12,Gene,ribosomal protein L18 pseudogene 12,,"390671,,,,",9606
+LILRA6,Gene,leukocyte immunoglobulin like receptor A6,"""CD molecules|Activating leukocyte immunoglobulin like receptors""","79168,ENSG00000244482,OTTHUMG00000066635,uc032idf.2,AF041262",9606
+PMM2,Gene,phosphomannomutase 2,HAD Asp-based non-protein phosphatases,"5373,ENSG00000140650,OTTHUMG00000129697,uc002czf.5,BC008310",9606
+RNU6-433P,Gene,"RNA, U6 small nuclear 433, pseudogene",,"106481315,ENSG00000200086,,,",9606
+KRT8P41,Gene,keratin 8 pseudogene 41,,"283102,ENSG00000213538,OTTHUMG00000165715,,",9606
+LINC02489,Gene,long intergenic non-protein coding RNA 2489,Long intergenic non-protein coding RNAs,"101928919,ENSG00000255007,OTTHUMG00000166910,,",9606
+PPM1B-DT,Gene,PPM1B divergent transcript,Divergent transcripts,"118568818,ENSG00000273106,,,",9606
+ODAPH,Gene,odontogenesis associated phosphoprotein,,"152816,ENSG00000174792,OTTHUMG00000130104,uc003hip.3,AK074237",9606
+RN7SL339P,Gene,"RNA, 7SL, cytoplasmic 339, pseudogene",,"106479348,ENSG00000265740,,uc063jpz.1,",9606
+RN7SL35P,Gene,"RNA, 7SL, cytoplasmic 35, pseudogene",,"106480931,ENSG00000240347,,uc064euj.1,",9606
+MTND3P9,Gene,MT-ND3 pseudogene 9,,"100873184,ENSG00000227557,OTTHUMG00000153937,,",9606
+ST14,Gene,ST14 transmembrane serine protease matriptase,Type II transmembrane serine proteases,"6768,ENSG00000149418,OTTHUMG00000165768,uc001qfw.4,AF118224",9606
+LINC01256,Gene,long intergenic non-protein coding RNA 1256,Long intergenic non-protein coding RNAs,"104355285,ENSG00000251398,OTTHUMG00000161768,,BX088800",9606
+RN7SL310P,Gene,"RNA, 7SL, cytoplasmic 310, pseudogene",,"106479336,ENSG00000240663,,uc060pcz.1,",9606
+RPL29P23,Gene,ribosomal protein L29 pseudogene 23,,"646077,ENSG00000241950,OTTHUMG00000158340,,",9606
+ZNF451-AS1,Gene,ZNF451 regulatory antisense RNA 1,Antisense RNAs,"101927211,ENSG00000226803,OTTHUMG00000014917,,",9606
+HSPE1P19,Gene,heat shock protein family E (Hsp10) member 1 pseudogene 19,,"106481675,ENSG00000271024,OTTHUMG00000184367,,",9606
+OGFOD2,Gene,2-oxoglutarate and iron dependent oxygenase domain containing 2,,"79676,ENSG00000111325,OTTHUMG00000168778,uc001uea.2,AK094820",9606
+CCER2,Gene,coiled-coil glutamate rich protein 2,,"643669,ENSG00000262484,OTTHUMG00000177374,,",9606
+SNORD66,Gene,"small nucleolar RNA, C/D box 66","Small nucleolar RNAs, C/D box","692107,ENSG00000212158,,uc003fnz.3,AC078797",9606
+MRPS21P7,Gene,mitochondrial ribosomal protein S21 pseudogene 7,,"359771,ENSG00000260024,OTTHUMG00000173442,,",9606
+DEFA9P,Gene,"defensin alpha 9, pseudogene","Defensins, alpha","449492,ENSG00000233238,OTTHUMG00000150021,,AY746434",9606
+HSPD1P10,Gene,heat shock protein family D (Hsp60) member 1 pseudogene 10,,"644016,ENSG00000216990,OTTHUMG00000015167,,",9606
+PSMC6,Gene,"proteasome 26S subunit, ATPase 6","""AAA ATPases|Proteasome""","5706,ENSG00000100519,OTTHUMG00000152333,uc010tqx.3,",9606
+RPS10P31,Gene,ribosomal protein S10 pseudogene 31,,"100129939,,,,",9606
+EML2,Gene,EMAP like 2,"""WD repeat domain containing|EMAP like|MicroRNA protein coding host genes""","24139,ENSG00000125746,OTTHUMG00000182127,uc002pcn.4,AF103939",9606
+CDK4,Gene,cyclin dependent kinase 4,"""Cyclin dependent kinases|MicroRNA protein coding host genes""","1019,ENSG00000135446,OTTHUMG00000170382,uc001spv.4,M14505",9606
+PIRC11,Gene,piwi-interacting RNA cluster 11,Piwi-interacting RNA clusters,"100313897,,,,",9606
+RNU6-14P,Gene,"RNA, U6 small nuclear 14, pseudogene",,"100873746,ENSG00000207360,,,",9606
+ZNF814,Gene,zinc finger protein 814,Zinc fingers C2H2-type,"730051,ENSG00000204514,OTTHUMG00000183519,uc061dny.1,",9606
+OR4F3,Gene,olfactory receptor family 4 subfamily F member 3,"Olfactory receptors, family 4","26683,ENSG00000230178,OTTHUMG00000162081,uc011dhm.3,AC004908",9606
+CAPN10-DT,Gene,CAPN10 divergent transcript,Divergent transcripts,"101752400,ENSG00000260942,OTTHUMG00000170676,,AK024254",9606
+FAAP100,Gene,FA core complex associated protein 100,,"80233,ENSG00000185504,OTTHUMG00000167764,,BC008883",9606
+IPO5,Gene,importin 5,"""Importins|TOG domain containing""","3843,ENSG00000065150,OTTHUMG00000017244,uc010til.2,U72761",9606
+RPS28P5,Gene,ribosomal protein S28 pseudogene 5,,"100271121,ENSG00000224646,,,",9606
+WWC2-AS2,Gene,WWC2 antisense RNA 2,Antisense RNAs,"152641,ENSG00000251359,OTTHUMG00000160677,uc003ivj.2,AK054839",9606
+TLK1,Gene,tousled like kinase 1,,"9874,ENSG00000198586,OTTHUMG00000132243,uc002ugn.3,AB004885",9606
+RNU6-1074P,Gene,"RNA, U6 small nuclear 1074, pseudogene",,"106480635,ENSG00000206722,,,",9606
+C5orf49,Gene,chromosome 5 open reading frame 49,,"134121,ENSG00000215217,OTTHUMG00000161897,uc003jea.7,",9606
+RPS4XP11,Gene,ribosomal protein S4X pseudogene 11,,"441550,ENSG00000234335,OTTHUMG00000017915,,",9606
+CUX2P1,Gene,cut like homeobox 2 pseudogene 1,CUT class homeoboxes and pseudogenes,"100126596,ENSG00000272436,OTTHUMG00000185574,,",9606
+OR4C50P,Gene,olfactory receptor family 4 subfamily C member 50 pseudogene,"Olfactory receptors, family 4","256190,ENSG00000237610,OTTHUMG00000154323,,",9606
+HOXC-AS1,Gene,HOXC cluster antisense RNA 1,Antisense RNAs,"100874363,ENSG00000250451,OTTHUMG00000160024,uc031zck.1,""BU619815|CA429707""",9606
+SNORD114-2,Gene,"small nucleolar RNA, C/D box 114-2","Small nucleolar RNAs, C/D box","767578,ENSG00000200823,,uc001yis.4,",9606
+RNA5SP185,Gene,"RNA, 5S ribosomal pseudogene 185",,"100873447,ENSG00000212265,,uc063dss.1,",9606
+BTF3L4P4,Gene,basic transcription factor 3 like 4 pseudogene 4,,"100506061,ENSG00000229226,OTTHUMG00000161472,,",9606
+GPC6,Gene,glypican 6,Glypicans,"10082,ENSG00000183098,OTTHUMG00000017205,uc001vlt.4,AF111178",9606
+HMGB1P16,Gene,high mobility group box 1 pseudogene 16,,"646577,ENSG00000229384,OTTHUMG00000021352,,",9606
+CACNA1C-IT3,Gene,CACNA1C intronic transcript 3,Intronic transcripts,"100874370,ENSG00000256721,OTTHUMG00000168201,uc031qfn.2,",9606
+ARMS2,Gene,age-related maculopathy susceptibility 2,,"387715,ENSG00000254636,OTTHUMG00000048232,uc001lgi.4,BC066349",9606
+RNU6-92P,Gene,"RNA, U6 small nuclear 92, pseudogene",,"106479607,ENSG00000272393,,,",9606
+ZNF577,Gene,zinc finger protein 577,Zinc fingers C2H2-type,"84765,ENSG00000161551,OTTHUMG00000157045,uc010yde.4,AL832871",9606
+CYP21A2,Gene,cytochrome P450 family 21 subfamily A member 2,Cytochrome P450 family 21,"1589,ENSG00000231852,OTTHUMG00000031069,uc021zxa.2,X58906",9606
+SNX27,Gene,sorting nexin 27,"""Sorting nexins|PDZ domain containing""","81609,ENSG00000143376,OTTHUMG00000013052,uc001eyn.2,AB007957",9606
+POU4F2,Gene,POU class 4 homeobox 2,POU class homeoboxes and pseudogenes,"5458,ENSG00000151615,OTTHUMG00000162045,uc003ikv.4,U06233",9606
+CEACAMP11,Gene,CEA cell adhesion molecule pseudogene 11,CEA cell adhesion molecule family,"1086,ENSG00000236123,OTTHUMG00000151540,,U06679",9606
+SFR1,Gene,SWI5 dependent homologous recombination repair protein 1,,"119392,ENSG00000156384,OTTHUMG00000019000,uc001kxu.4,BC020892",9606
+SLC30A1,Gene,solute carrier family 30 member 1,Solute carriers,"7779,ENSG00000170385,OTTHUMG00000036995,uc001hio.2,AF323590",9606
+GNG5P4,Gene,G protein subunit gamma 5 pseudogene 4,,"100101933,,,,",9606
+MTCO1P51,Gene,MT-CO1 pseudogene 51,,"100287067,ENSG00000232981,OTTHUMG00000020078,,",9606
+ANKRD18B,Gene,ankyrin repeat domain 18B,Ankyrin repeat domain containing,"441459,ENSG00000230453,OTTHUMG00000019776,uc064spz.1,",9606
+LRRC8C-DT,Gene,LRRC8C divergent transcript,Divergent transcripts,"400761,ENSG00000231999,OTTHUMG00000010130,,",9606
+PPP4R1-AS1,Gene,PPP4R1 antisense RNA 1,Antisense RNAs,"101927323,ENSG00000263627,OTTHUMG00000178597,,",9606
+LINC02262,Gene,long intergenic non-protein coding RNA 2262,Long intergenic non-protein coding RNAs,"105377389,ENSG00000224932,OTTHUMG00000059449,,",9606
+NFYA,Gene,nuclear transcription factor Y subunit alpha,,"4800,ENSG00000001167,OTTHUMG00000014669,uc003opo.4,",9606
+GPR158-AS1,Gene,GPR158 antisense RNA 1,Antisense RNAs,"100128811,ENSG00000233642,OTTHUMG00000017830,uc010qde.2,AK094758",9606
+MRGPRX13P,Gene,"MAS related GPR family member X13, pseudogene",,"645319,ENSG00000254546,OTTHUMG00000166444,,",9606
+MAIP1,Gene,matrix AAA peptidase interacting protein 1,,"79568,ENSG00000162972,OTTHUMG00000132771,uc002uvm.4,BC017959",9606
+PLEC,Gene,plectin,"""Plakins|MicroRNA protein coding host genes""","5339,ENSG00000178209,OTTHUMG00000165291,uc064rfy.1,U53204",9606
+C15orf39,Gene,chromosome 15 open reading frame 39,,"56905,ENSG00000167173,OTTHUMG00000142820,uc002azp.4,AK128205",9606
+CDC5L,Gene,cell division cycle 5 like,"""Myb/SANT domain containing|NineTeen complex|Spliceosomal C complex|MicroRNA protein coding host genes""","988,ENSG00000096401,OTTHUMG00000014767,uc003oxl.4,D85423",9606
+UBN1,Gene,ubinuclein 1,"""Protein phosphatase 1 regulatory subunits|HIRA histone chaperone complex subunits""","29855,ENSG00000118900,OTTHUMG00000129531,uc002cyb.5,AF108460",9606
+RN7SL545P,Gene,"RNA, 7SL, cytoplasmic 545, pseudogene",,"106481848,ENSG00000274568,,uc059grd.1,",9606
+RNU6-558P,Gene,"RNA, U6 small nuclear 558, pseudogene",,"106481358,ENSG00000201382,,,",9606
+TOMM22P2,Gene,TOMM22 pseudogene 2,,"100499417,ENSG00000232195,OTTHUMG00000036083,,",9606
+NDOR1,Gene,NADPH dependent diflavin oxidoreductase 1,Cytosolic iron-sulfur assembly components,"27158,ENSG00000188566,OTTHUMG00000020986,uc004clw.4,BC015735",9606
+CEP192,Gene,centrosomal protein 192,Protein phosphatase 1 regulatory subunits,"55125,ENSG00000101639,OTTHUMG00000160693,uc060npo.1,AK074074",9606
+ABHD17AP1,Gene,ABHD17A pseudogene 1,,"728917,ENSG00000198658,OTTHUMG00000047949,,",9606
+LINC00589,Gene,long intergenic non-protein coding RNA 589,Long intergenic non-protein coding RNAs,"619351,ENSG00000251191,OTTHUMG00000163800,uc064lqy.1,""BC003524|BC014230""",9606
+ZBTB6,Gene,zinc finger and BTB domain containing 6,"""Zinc fingers C2H2-type|BTB domain containing""","10773,ENSG00000186130,OTTHUMG00000020628,uc004bnh.5,X82018",9606
+RN7SL610P,Gene,"RNA, 7SL, cytoplasmic 610, pseudogene",,"106479444,ENSG00000243847,,uc061hbf.1,",9606
+RNA5SP203,Gene,"RNA, 5S ribosomal pseudogene 203",,"100873464,ENSG00000222383,,uc063lvi.1,",9606
+NMI,Gene,N-myc and STAT interactor,,"9111,ENSG00000123609,OTTHUMG00000131867,uc002txi.3,U32849",9606
+SLC28A2-AS1,Gene,SLC28A2 antisense RNA 1,Antisense RNAs,"101928414,ENSG00000259520,,,",9606
+RN7SKP156,Gene,RN7SK pseudogene 156,,"106480882,ENSG00000222240,,uc057nzx.1,",9606
+TGFB1I1,Gene,transforming growth factor beta 1 induced transcript 1,LIM domain containing,"7041,ENSG00000140682,OTTHUMG00000132467,uc021tgx.1,AB007836",9606
+WBP11P3,Gene,WBP11 pseudogene 3,,"727874,ENSG00000228051,,,",9606
+COLGALT2,Gene,collagen beta(1-O)galactosyltransferase 2,Collagen beta(1-O)galactosyltransferases,"23127,ENSG00000198756,OTTHUMG00000035460,uc001gqr.4,AF288389",9606
+MIR8060,Gene,microRNA 8060,MicroRNAs,"102465864,ENSG00000278103,,,",9606
+VIPR1,Gene,vasoactive intestinal peptide receptor 1,Vasoactive intestinal peptide receptor family,"7433,ENSG00000114812,OTTHUMG00000131792,uc003clf.3,AH005329",9606
+PSME2P4,Gene,proteasome activator subunit 2 pseudogene 4,,"338096,ENSG00000251332,OTTHUMG00000160425,,",9606
+ZUP1,Gene,zinc finger containing ubiquitin peptidase 1,"""Zinc fingers C2H2-type|ZUP1 deubiquitinase""","221302,ENSG00000153975,OTTHUMG00000015445,uc003pxf.3,AK054582",9606
+RPL13AP19,Gene,ribosomal protein L13a pseudogene 19,,"100132924,ENSG00000228754,OTTHUMG00000018177,,",9606
+LINC00680,Gene,long intergenic non-protein coding RNA 680,Long intergenic non-protein coding RNAs,"106660612,ENSG00000215190,OTTHUMG00000014928,uc003ped.5,""BC011838|BC017330""",9606
+PDYN,Gene,prodynorphin,Neuropeptides,"5173,ENSG00000101327,OTTHUMG00000031683,uc021vzu.2,",9606
+RN7SL2,Gene,RNA component of signal recognition particle 7SL2,"""Signal recognition particle|Long non-coding RNAs with non-systematic symbols""","378706,ENSG00000274012,OTTHUMG00000189346,uc021rst.3,X04249",9606
+CYP2C8,Gene,cytochrome P450 family 2 subfamily C member 8,Cytochrome P450 family 2,"1558,ENSG00000138115,OTTHUMG00000018804,uc001kkb.4,M17397",9606
+MIR193BHG,Gene,MIR193b-365a host gene,MicroRNA non-coding host genes,"100129781,ENSG00000262454,OTTHUMG00000177423,,",9606
+RPL36AP36,Gene,ribosomal protein L36a pseudogene 36,,"644834,ENSG00000237540,OTTHUMG00000017687,,",9606
+ASPDH,Gene,aspartate dehydrogenase domain containing,,"554235,ENSG00000204653,OTTHUMG00000183057,uc010enz.4,",9606
+GRPEL2P1,Gene,GRPEL2 pseudogene 1,,"100874360,ENSG00000233211,OTTHUMG00000017172,,",9606
+LINC02250,Gene,long intergenic non-protein coding RNA 2250,Long intergenic non-protein coding RNAs,"105370737,ENSG00000235731,OTTHUMG00000056663,,",9606
+BUD31P1,Gene,BUD31 homolog pseudogene 1,,"106480331,ENSG00000253684,OTTHUMG00000163963,,",9606
+CREB3L2-AS1,Gene,CREB3L2 antisense RNA 1,Antisense RNAs,"100130880,ENSG00000237243,,,",9606
+GSTM5P1,Gene,glutathione S-transferase mu 5 pseudogene 1,,"100505557,ENSG00000236062,OTTHUMG00000155336,,",9606
+RPLP1,Gene,ribosomal protein lateral stalk subunit P1,L ribosomal proteins,"6176,ENSG00000137818,OTTHUMG00000172087,uc002asd.2,",9606
+CNFN,Gene,cornifelin,,"84518,ENSG00000105427,OTTHUMG00000182813,uc002otp.5,AB049591",9606
+LINC02461,Gene,long intergenic non-protein coding RNA 2461,Long intergenic non-protein coding RNAs,"105369740,ENSG00000258331,OTTHUMG00000169352,,",9606
+RAB40B,Gene,"RAB40B, member RAS oncogene family","""RAB, member RAS oncogene GTPases|MicroRNA protein coding host genes""","10966,ENSG00000141542,OTTHUMG00000177806,uc002kft.4,U05227",9606
+SLC25A37,Gene,solute carrier family 25 member 37,Solute carriers,"51312,ENSG00000147454,OTTHUMG00000163865,uc003xds.4,AF495725",9606
+JADE2,Gene,jade family PHD finger 2,PHD finger proteins,"23338,ENSG00000043143,OTTHUMG00000129122,,AJ251833",9606
+IGLV7-35,Gene,immunoglobulin lambda variable 7-35 (pseudogene),Immunoglobulin lambda locus at 22q11.2,"28777,ENSG00000253631,OTTHUMG00000151067,,Z73660",9606
+KRT18P17,Gene,keratin 18 pseudogene 17,,"344866,ENSG00000213943,OTTHUMG00000155395,,",9606
+SH3BGRL,Gene,SH3 domain binding glutamate rich protein like,,"6451,ENSG00000131171,OTTHUMG00000021910,uc004eef.4,AF042081",9606
+TNFSF13B,Gene,TNF superfamily member 13b,"""CD molecules|Tumor necrosis factor superfamily""","10673,ENSG00000102524,OTTHUMG00000017329,uc001vqr.4,AF136293",9606
+VN1R2,Gene,vomeronasal 1 receptor 2,Vomeronasal receptors,"317701,ENSG00000196131,OTTHUMG00000182906,uc002qbi.2,AF370359",9606
+OR4L1,Gene,olfactory receptor family 4 subfamily L member 1,"Olfactory receptors, family 4","122742,ENSG00000176246,OTTHUMG00000169492,uc001vwn.1,",9606
+RPL39P31,Gene,ribosomal protein L39 pseudogene 31,,"100271525,ENSG00000242176,OTTHUMG00000158246,,",9606
+RN7SL400P,Gene,"RNA, 7SL, cytoplasmic 400, pseudogene",,"106481033,ENSG00000243059,,uc059gpv.1,",9606
+CDC40,Gene,cell division cycle 40,"""WD repeat domain containing|NTC associated proteins|Spliceosomal Bact complex|Spliceosomal C complex|Spliceosomal P complex""","51362,ENSG00000168438,OTTHUMG00000015358,uc003pua.4,AF015044",9606
+BSG-AS1,Gene,BSG antisense RNA 1,Antisense RNAs,"105372233,ENSG00000267751,,,",9606
+C7,Gene,complement C7,"""Sushi domain containing|Complement system activation components""","730,ENSG00000112936,OTTHUMG00000150340,uc003jmh.5,J03507",9606
+RNU7-77P,Gene,"RNA, U7 small nuclear 77 pseudogene",,"100151674,ENSG00000253054,,uc057sss.1,",9606
+MIR374A,Gene,microRNA 374a,MicroRNA MIR374 family,"442919,ENSG00000199168,,uc011mqm.3,",9606
+LINC01504,Gene,long intergenic non-protein coding RNA 1504,Long intergenic non-protein coding RNAs,"100507540,ENSG00000225434,OTTHUMG00000020007,,AK095210",9606
+RAD54B,Gene,RAD54 homolog B,,"25788,ENSG00000197275,OTTHUMG00000133658,uc003ygk.4,AF112481",9606
+UGT1A7,Gene,UDP glucuronosyltransferase family 1 member A7,UDP glucuronosyltransferases,"54577,ENSG00000244122,OTTHUMG00000059004,uc002vut.4,U39570",9606
+KIR2DL2,Gene,"killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2","""CD molecules|Killer cell immunoglobulin like receptors""","3803,,OTTHUMG00000151579,uc061eyy.1,""L76669|GL949748|GL949753""",9606
+LINC01432,Gene,long intergenic non-protein coding RNA 1432,Long intergenic non-protein coding RNAs,"100270679,ENSG00000234435,OTTHUMG00000032036,,",9606
+MIR574,Gene,microRNA 574,MicroRNAs,"693159,ENSG00000207944,,uc021xno.1,",9606
+ELP3,Gene,elongator acetyltransferase complex subunit 3,"""Lysine acetyltransferases|Elongator acetyltransferase complex |GCN5 related N-acetyltransferases|Radical S-adenosylmethionine domain containing""","55140,ENSG00000134014,OTTHUMG00000102124,uc003xgn.6,",9606
+PTCD2P2,Gene,pentatricopeptide repeat domain 2 pseudogene 2,,"100132487,ENSG00000234256,OTTHUMG00000018704,,",9606
+SMCO2,Gene,single-pass membrane protein with coiled-coil domains 2,,"341346,ENSG00000165935,OTTHUMG00000169205,uc010sjq.2,",9606
+FAM214A,Gene,family with sequence similarity 214 member A,,"56204,ENSG00000047346,OTTHUMG00000172688,uc002acg.6,AB037791",9606
+LINC02555,Gene,long intergenic non-protein coding RNA 2555,Long intergenic non-protein coding RNAs,"101930164,ENSG00000260943,OTTHUMG00000172895,,AK026751",9606
+CLDN10-AS1,Gene,CLDN10 antisense RNA 1,Antisense RNAs,"100874194,ENSG00000223392,OTTHUMG00000017220,uc031qmx.1,",9606
+ACOX1,Gene,acyl-CoA oxidase 1,,"51,ENSG00000161533,OTTHUMG00000180027,uc002jqe.5,U03254",9606
+PSMD1,Gene,"proteasome 26S subunit, non-ATPase 1","""Proteasome|Armadillo like helical domain containing""","5707,ENSG00000173692,OTTHUMG00000133223,uc002vrn.3,D44466",9606
+ASH1L,Gene,ASH1 like histone lysine methyltransferase,"""PHD finger proteins|Lysine methyltransferases|Bromodomain containing|SET domain containing|MicroRNA protein coding host genes""","55870,ENSG00000116539,OTTHUMG00000014011,uc001fkt.4,AB037841",9606
+KRT8,Gene,keratin 8,"Keratins, type II","3856,ENSG00000170421,OTTHUMG00000169881,uc009zmm.3,BC000654",9606
+PDLIM4,Gene,PDZ and LIM domain 4,"""LIM domain containing|PDZ domain containing""","8572,ENSG00000131435,OTTHUMG00000059645,uc003kwn.4,AF153882",9606
+OR2D2,Gene,olfactory receptor family 2 subfamily D member 2,"Olfactory receptors, family 2","120776,ENSG00000166368,OTTHUMG00000165741,uc010rau.3,AB065824",9606
+SNORA31B,Gene,"small nucleolar RNA, H/ACA box 31B","Small nucleolar RNAs, H/ACA box","109616966,,,,",9606
+LINC00279,Gene,long intergenic non-protein coding RNA 279,Long intergenic non-protein coding RNAs,"100873963,ENSG00000286217,OTTHUMG00000041258,uc065cqk.1,",9606
+MYNN,Gene,myoneurin,"""Zinc fingers C2H2-type|BTB domain containing""","55892,ENSG00000085274,OTTHUMG00000184027,uc003fft.4,AF148848",9606
+MIR941-5,Gene,microRNA 941-5,MicroRNAs,"103504732,ENSG00000275842,,,",9606
+PCDHGC4,Gene,"protocadherin gamma subfamily C, 4",Clustered protocadherins,"56098,ENSG00000242419,OTTHUMG00000129625,uc003lky.3,AF152525",9606
+CREBRF,Gene,CREB3 regulatory factor,,"153222,ENSG00000164463,OTTHUMG00000163322,uc003mch.4,AY139008",9606
+TMEM53,Gene,transmembrane protein 53,,"79639,ENSG00000126106,OTTHUMG00000007833,uc001cmc.4,",9606
+AP1S3,Gene,adaptor related protein complex 1 subunit sigma 3,Adaptor related protein complex 1,"130340,ENSG00000152056,OTTHUMG00000133165,uc002vnn.4,AF393369",9606
+ZNF613,Gene,zinc finger protein 613,Zinc fingers C2H2-type,"79898,ENSG00000176024,OTTHUMG00000182424,uc061bzl.1,AK027565",9606
+MT-TP,Gene,mitochondrially encoded tRNA-Pro (CCN),Mitochondrially encoded transfer RNAs,"4571,ENSG00000210196,,uc022bqx.2,",9606
+LINC01794,Gene,long intergenic non-protein coding RNA 1794,Long intergenic non-protein coding RNAs,"101929700,ENSG00000233128,OTTHUMG00000152401,,",9606
+PABIR1,Gene,PP2A Aalpha (PPP2R1A) and B55A (PPP2R2A) interacting phosphatase regulator 1,,"116224,ENSG00000187866,OTTHUMG00000019971,uc004agw.2,AK126379",9606
+RN7SKP118,Gene,RN7SK pseudogene 118,,"106633802,ENSG00000201201,,uc059vtf.1,",9606
+OR51C1P,Gene,olfactory receptor family 51 subfamily C member 1 pseudogene,"Olfactory receptors, family 51","401661,ENSG00000197674,OTTHUMG00000186285,,",9606
+MIR1260B,Gene,microRNA 1260b,MicroRNAs,"100422991,ENSG00000266192,,uc021qoz.2,",9606
+MIR3935,Gene,microRNA 3935,MicroRNAs,"100500891,ENSG00000265281,,uc021tis.1,",9606
+MIR6761,Gene,microRNA 6761,MicroRNAs,"102465456,ENSG00000274697,,,",9606
+PTPRR,Gene,protein tyrosine phosphatase receptor type R,Protein tyrosine phosphatases receptor type,"5801,ENSG00000153233,OTTHUMG00000169502,uc001swi.3,D64053",9606
+YBX1P4,Gene,Y-box binding protein 1 pseudogene 4,,"100131012,ENSG00000213188,OTTHUMG00000157256,,",9606
+TTTY18,Gene,"testis-specific transcript, Y-linked 18",Long non-coding RNAs with non-systematic symbols,"252950,ENSG00000233699,OTTHUMG00000041267,uc004fri.1,",9606
+LYZ,Gene,lysozyme,"Lysozymes, c-type","4069,ENSG00000090382,OTTHUMG00000169342,uc001suw.3,X14008",9606
+FAM207CP,Gene,"family with sequence similarity 207 member C, pseudogene",,"727987,ENSG00000232797,OTTHUMG00000074236,,",9606
+RBM46,Gene,RNA binding motif protein 46,RNA binding motif containing,"166863,ENSG00000151962,OTTHUMG00000161543,uc003ioo.5,BC028588",9606
+TRY-GTA7-1,Gene,tRNA-Tyr (anticodon GTA) 7-1,Cytoplasmic transfer RNAs,"100009601,,,,HG984084",9606
+PIRC22,Gene,piwi-interacting RNA cluster 22,Piwi-interacting RNA clusters,"100313850,,,,",9606
+ZNF74,Gene,zinc finger protein 74,Zinc fingers C2H2-type,"7625,ENSG00000185252,OTTHUMG00000150687,uc010gsm.5,X71623",9606
+ITIH3,Gene,inter-alpha-trypsin inhibitor heavy chain 3,Inter-alpha-trypsin inhibitor heavy chains,"3699,ENSG00000162267,OTTHUMG00000158956,uc003dfv.3,",9606
+DIS3,Gene,"DIS3 homolog, exosome endoribonuclease and 3'-5' exoribonuclease","""Exosome complex|Endoribonucleases""","22894,ENSG00000083520,OTTHUMG00000017070,uc001vix.6,AB023225",9606
+CELF5,Gene,CUGBP Elav-like family member 5,RNA binding motif containing,"60680,ENSG00000161082,OTTHUMG00000180693,uc002lxm.4,AF248649",9606
+MPRIP,Gene,myosin phosphatase Rho interacting protein,Pleckstrin homology domain containing,"23164,ENSG00000133030,OTTHUMG00000059276,uc002gqu.3,BC014102",9606
+KRT18P58,Gene,keratin 18 pseudogene 58,,"644030,ENSG00000254831,OTTHUMG00000165375,,",9606
+MIR1248,Gene,microRNA 1248,MicroRNAs,"100302143,ENSG00000283958,,uc062rfa.1,",9606
+USP17L9P,Gene,"ubiquitin specific peptidase 17 like family member 9, pseudogene",,"391627,ENSG00000251694,OTTHUMG00000160188,,D38378",9606
+OR9M1P,Gene,"olfactory receptor family 9 subfamily M member 1, pseudogene","Olfactory receptors, family 9","81153,ENSG00000186124,OTTHUMG00000154234,,",9606
+NOBOX,Gene,NOBOX oogenesis homeobox,PRD class homeoboxes and pseudogenes,"135935,ENSG00000106410,OTTHUMG00000158051,uc064iya.1,",9606
+NME1P1,Gene,NME/NM23 nucleoside diphosphate kinase 1 pseudogene 1,,"100874501,ENSG00000237175,OTTHUMG00000016549,,",9606
+ERVFRD-1,Gene,"endogenous retrovirus group FRD member 1, envelope",,"405754,ENSG00000244476,OTTHUMG00000159193,uc003mzt.4,""AK075092|AK123938|AY358244""",9606
+LINC00613,Gene,long intergenic non-protein coding RNA 613,Long intergenic non-protein coding RNAs,"100507528,ENSG00000248330,OTTHUMG00000161224,uc032txr.2,AW237894",9606
+MIR7158,Gene,microRNA 7158,MicroRNAs,"102465693,ENSG00000276733,,,",9606
+CELF4,Gene,CUGBP Elav-like family member 4,RNA binding motif containing,"56853,ENSG00000101489,OTTHUMG00000178178,uc002lae.3,AF248651",9606
+OR2V1,Gene,olfactory receptor family 2 subfamily V member 1,"Olfactory receptors, family 2","26693,ENSG00000185372,OTTHUMG00000162118,uc031smg.1,AB065465",9606
+RPS2P40,Gene,ribosomal protein S2 pseudogene 40,,"91561,,,,",9606
+FAM91A3P,Gene,"family with sequence similarity 91 member A3, pseudogene",,"729182,ENSG00000242352,OTTHUMG00000041566,,",9606
+RPL10AP5,Gene,ribosomal protein L10a pseudogene 5,,"645998,ENSG00000235467,OTTHUMG00000039858,,",9606
+HSPA8P14,Gene,heat shock protein family A (Hsp70) member 8 pseudogene 14,,"642580,ENSG00000257539,OTTHUMG00000169549,,",9606
+LINC00448,Gene,long intergenic non-protein coding RNA 448,Long intergenic non-protein coding RNAs,"100874176,ENSG00000228669,OTTHUMG00000017019,uc058xjh.1,",9606
+NDUFA3P4,Gene,NADH:ubiquinone oxidoreductase subunit A3 pseudogene 4,,"106480806,ENSG00000259262,OTTHUMG00000172360,,",9606
+EEF1B2P7,Gene,eukaryotic translation elongation factor 1 beta 2 pseudogene 7,,"100421756,ENSG00000213055,OTTHUMG00000153290,,",9606
+PFN4,Gene,profilin family member 4,Profilins,"375189,ENSG00000176732,OTTHUMG00000090816,uc002rfa.2,BC029523",9606
+HMGN1P28,Gene,high mobility group nucleosome binding domain 1 pseudogene 28,,"100874464,ENSG00000254114,OTTHUMG00000163587,,",9606
+SERTAD4-AS1,Gene,SERTAD4 antisense RNA 1,Antisense RNAs,"574036,ENSG00000203706,OTTHUMG00000036392,uc001hhx.6,BC066352",9606
+LINC00537,Gene,long intergenic non-protein coding RNA 537,Long intergenic non-protein coding RNAs,"203274,,,,BC110369",9606
+MEG9,Gene,maternally expressed 9,Long non-coding RNAs with non-systematic symbols,"100507257,ENSG00000223403,OTTHUMG00000029067,uc001yjz.3,""AK094562|AK021527""",9606
+IARS1,Gene,isoleucyl-tRNA synthetase 1,"""Aminoacyl tRNA synthetases, Class I|MicroRNA protein coding host genes|Small nucleolar RNA protein coding host genes""","3376,ENSG00000196305,OTTHUMG00000020219,uc004art.4,AB209234",9606
+OR10AG1,Gene,olfactory receptor family 10 subfamily AG member 1,"Olfactory receptors, family 10","282770,ENSG00000174970,OTTHUMG00000166824,uc010rit.2,AB065594",9606
+PABPC1P11,Gene,poly(A) binding protein cytoplasmic 1 pseudogene 11,,"100421058,ENSG00000228810,OTTHUMG00000019600,,",9606
+RAB11B-AS1,Gene,RAB11B antisense RNA 1,Antisense RNAs,"100507567,ENSG00000269386,OTTHUMG00000182274,uc002mjt.5,BC014506",9606
+RNA5SP208,Gene,"RNA, 5S ribosomal pseudogene 208",,"100873468,ENSG00000251965,,uc063pjh.1,",9606
+RNU6-783P,Gene,"RNA, U6 small nuclear 783, pseudogene",,"106479912,ENSG00000252519,,,",9606
+RPL36AP35,Gene,ribosomal protein L36a pseudogene 35,,"100271610,ENSG00000231810,OTTHUMG00000020460,,",9606
+H4C9,Gene,H4 clustered histone 9,H4 histones,"8294,ENSG00000276180,OTTHUMG00000014471,uc003niy.2,AB000905",9606
+LINC02687,Gene,long intergenic non-protein coding RNA 2687,Long intergenic non-protein coding RNAs,"399886,ENSG00000255267,,,",9606
+TP53TG3F,Gene,TP53 target 3 family member F,,"102724127,ENSG00000278848,OTTHUMG00000189349,,",9606
+TLE3,Gene,"TLE family member 3, transcriptional corepressor","""WD repeat domain containing|Wnt enhanceosome complex|TLE family|MicroRNA protein coding host genes""","7090,ENSG00000140332,OTTHUMG00000172121,uc002asm.4,M99438",9606
+LINC02151,Gene,long intergenic non-protein coding RNA 2151,Long intergenic non-protein coding RNAs,"109729162,ENSG00000236437,OTTHUMG00000045137,,",9606
+CALCA,Gene,calcitonin related polypeptide alpha,Neuropeptides,"796,ENSG00000110680,OTTHUMG00000159731,uc001mlt.2,""X00356|M64486""",9606
+KRT35,Gene,keratin 35,"Keratins, type I","3886,ENSG00000197079,OTTHUMG00000133425,uc002hws.4,X90762",9606
+DENND1C,Gene,DENN domain containing 1C,DENN domain containing,"79958,ENSG00000205744,OTTHUMG00000180853,uc002mfe.4,AL713770",9606
+MCHR1,Gene,melanin concentrating hormone receptor 1,Melanin concentrating hormone receptors,"2847,ENSG00000128285,OTTHUMG00000150256,uc003ayz.4,",9606
+RNASE7,Gene,ribonuclease A family member 7,Ribonuclease A family,"84659,ENSG00000165799,OTTHUMG00000171358,uc001vzk.4,AJ131212",9606
+SPTY2D1,Gene,SPT2 chromatin protein domain containing 1,,"144108,ENSG00000179119,OTTHUMG00000167733,uc001moy.4,BX647798",9606
+CCNK,Gene,cyclin K,"""Cyclins|P-TEFb complex subunits""","8812,ENSG00000090061,OTTHUMG00000171495,uc001ygi.5,AF060515",9606
+RN7SL8P,Gene,"RNA, 7SL, cytoplasmic 8, pseudogene",,"6034,ENSG00000243352,,uc064gss.1,X04255",9606
+CHUK,Gene,component of inhibitor of nuclear factor kappa B kinase complex,"""I kappa B kinases|IKK complex""","1147,ENSG00000213341,OTTHUMG00000018899,uc001kqp.4,AF009225",9606
+CFAP46,Gene,cilia and flagella associated protein 46,"""Tetratricopeptide repeat domain containing|Cilia and flagella associated""","54777,ENSG00000171811,OTTHUMG00000019292,,BC034223",9606
+L3MBTL2-AS1,Gene,L3MBTL2 antisense RNA 1,Antisense RNAs,"100506544,ENSG00000235513,OTTHUMG00000150943,,",9606
+HOXB-AS2,Gene,HOXB cluster antisense RNA 2,Antisense RNAs,"100874350,ENSG00000239552,OTTHUMG00000159921,uc060gvu.1,""DA447098|BF999536""",9606
+LINC00476,Gene,long intergenic non-protein coding RNA 476,Long intergenic non-protein coding RNAs,"100128782,ENSG00000175611,OTTHUMG00000020286,uc064unj.1,AK092137",9606
+RIPK4,Gene,receptor interacting serine/threonine kinase 4,"""Ankyrin repeat domain containing|MicroRNA protein coding host genes""","54101,ENSG00000183421,OTTHUMG00000086770,uc002yzn.2,AJ278016",9606
+ARF4P4,Gene,ADP ribosylation factor 4 pseudogene 4,,"100129023,ENSG00000231222,OTTHUMG00000017143,,",9606
+CNN2P6,Gene,calponin 2 pseudogene 6,,"339897,ENSG00000213854,OTTHUMG00000155812,,",9606
+MAGOH,Gene,"mago homolog, exon junction complex subunit","""Exon junction complex|Spliceosomal P complex""","4116,ENSG00000162385,OTTHUMG00000008932,uc001cvf.2,AF035940",9606
+RPPH1,Gene,ribonuclease P RNA component H1,,"85495,ENSG00000277209,OTTHUMG00000170789,uc001vxa.2,X15624",9606
+LMO7DN,Gene,LMO7 downstream neighbor,,"729420,ENSG00000178734,OTTHUMG00000187426,,AK092698",9606
+RNU6-171P,Gene,"RNA, U6 small nuclear 171, pseudogene",,"106481230,ENSG00000207082,,,",9606
+GATB,Gene,glutamyl-tRNA amidotransferase subunit B,Glutamyl-tRNA amidotransferase subunits,"5188,ENSG00000059691,OTTHUMG00000161672,,AF026851",9606
+SAMD13,Gene,sterile alpha motif domain containing 13,Sterile alpha motif domain containing,"148418,ENSG00000203943,OTTHUMG00000009859,uc001djr.3,",9606
+P2RY11,Gene,purinergic receptor P2Y11,P2Y receptors,"5032,ENSG00000244165,OTTHUMG00000150166,uc002mnc.4,AF030335",9606
+SNHG19,Gene,small nucleolar RNA host gene 19,Small nucleolar RNA non-coding host genes,"100507303,ENSG00000260260,OTTHUMG00000177010,,",9606
+GLIPR1L1,Gene,GLIPR1 like 1,GLIPR family ,"256710,ENSG00000173401,OTTHUMG00000169755,uc001sxn.4,BC014603",9606
+C4orf19,Gene,chromosome 4 open reading frame 19,,"55286,ENSG00000154274,OTTHUMG00000128580,uc003gsw.5,BC037906",9606
+FERMT3,Gene,fermitin family member 3,"""Fermitins|Pleckstrin homology domain containing|FERM domain containing""","83706,ENSG00000149781,OTTHUMG00000167790,uc001nym.3,L25343",9606
+IGKV2D-40,Gene,immunoglobulin kappa variable 2D-40,Immunoglobulin kappa locus at 2p11.2,"28878,ENSG00000251039,OTTHUMG00000159963,uc061lrh.1,X59311",9606
+CCT6P3,Gene,chaperonin containing TCP1 subunit 6 pseudogene 3,Small nucleolar RNA non-coding host genes,"643180,ENSG00000234585,OTTHUMG00000156630,,",9606
+MAGEA4-AS1,Gene,MAGEA4 antisense RNA 1,Antisense RNAs,"105373368,ENSG00000229967,,,",9606
+C3orf80,Gene,chromosome 3 open reading frame 80,,"401097,ENSG00000180044,OTTHUMG00000158950,uc021xgp.2,",9606
+FAM71F1,Gene,family with sequence similarity 71 member F1,,"84691,ENSG00000135248,OTTHUMG00000158276,uc003vno.3,AF367470",9606
+HIGD1AP14,Gene,HIG1 hypoxia inducible domain family member 1A pseudogene 14,,"100874455,ENSG00000248785,OTTHUMG00000161106,,",9606
+RN7SKP264,Gene,RN7SK pseudogene 264,,"106479213,ENSG00000223012,,uc064ubt.1,",9606
+WDR86-AS1,Gene,WDR86 antisense RNA 1,Antisense RNAs,"100131176,ENSG00000243836,OTTHUMG00000157360,uc033apx.2,AK095986",9606
+PKIA-AS1,Gene,PKIA antisense RNA 1,Antisense RNAs,"101927003,ENSG00000254266,OTTHUMG00000164617,,BC036404",9606
+CYP4F8,Gene,cytochrome P450 family 4 subfamily F member 8,Cytochrome P450 family 4,"11283,ENSG00000186526,OTTHUMG00000182386,uc032hoh.2,AF133298",9606
+MIR6510,Gene,microRNA 6510,MicroRNAs,"102466658,ENSG00000283796,,,",9606
+RNU6-714P,Gene,"RNA, U6 small nuclear 714, pseudogene",,"106480603,ENSG00000252772,,,",9606
+RNA5SP422,Gene,"RNA, 5S ribosomal pseudogene 422",,"100873673,ENSG00000252587,,uc059tti.1,",9606
+RNU6-551P,Gene,"RNA, U6 small nuclear 551, pseudogene",,"106479811,ENSG00000252470,,,",9606
+ELF1,Gene,E74 like ETS transcription factor 1,ETS transcription factor family,"1997,ENSG00000120690,OTTHUMG00000016783,uc001uxs.4,M82882",9606
+CANX,Gene,calnexin,,"821,ENSG00000127022,OTTHUMG00000130910,uc003mkl.4,L18887",9606
+SNORD65,Gene,"small nucleolar RNA, C/D box 65","Small nucleolar RNAs, C/D box","692106,ENSG00000277512,,uc063bek.1,AC093484",9606
+SLC1A7,Gene,solute carrier family 1 member 7,Solute carriers,"6512,ENSG00000162383,OTTHUMG00000008937,uc001cuy.5,U76362",9606
+FLNA,Gene,filamin A,Filamins,"2316,ENSG00000196924,OTTHUMG00000022712,uc010nuu.1,X70082",9606
+RNU6-721P,Gene,"RNA, U6 small nuclear 721, pseudogene",,"106481774,ENSG00000222087,,,",9606
+BORCS6,Gene,BLOC-1 related complex subunit 6,BLOC-1 related complex subunits,"54785,ENSG00000196544,OTTHUMG00000153930,,BC018880",9606
+HDGFP1,Gene,heparin binding growth factor pseudogene 1,,"474167,ENSG00000227183,OTTHUMG00000022415,,AL109853",9606
+RNU7-194P,Gene,"RNA, U7 small nuclear 194 pseudogene",,"106480834,ENSG00000238721,,uc063adt.1,",9606
+TMUB2,Gene,transmembrane and ubiquitin like domain containing 2,,"79089,ENSG00000168591,OTTHUMG00000181811,uc002ifp.4,",9606
+PIRC78,Gene,piwi-interacting RNA cluster 78,Piwi-interacting RNA clusters,"100313869,,,,",9606
+RNU6-991P,Gene,"RNA, U6 small nuclear 991, pseudogene",,"106480004,ENSG00000251977,,,",9606
+PALB2,Gene,partner and localizer of BRCA2,"""WD repeat domain containing|FA complementation groups""","79728,ENSG00000083093,OTTHUMG00000177097,uc002dlx.2,",9606
+MEP1AP3,Gene,meprin A subunit alpha pseudogene 3,,"389747,,,,",9606
+SLC6A12-AS1,Gene,SLC6A12 antisense RNA 1,Antisense RNAs,"101929384,ENSG00000256577,OTTHUMG00000168005,,",9606
+PACRG-AS1,Gene,PACRG antisense RNA 1,Antisense RNAs,"285796,ENSG00000281692,OTTHUMG00000189584,uc011egh.3,",9606
+GSTO1,Gene,glutathione S-transferase omega 1,Soluble glutathione S-transferases,"9446,ENSG00000148834,OTTHUMG00000019001,uc001kya.4,AF212303",9606
+ZNF786,Gene,zinc finger protein 786,Zinc fingers C2H2-type,"136051,ENSG00000197362,OTTHUMG00000158975,uc003wfh.3,""AK095701|AL834510""",9606
+ZNF29P,Gene,"zinc finger protein 29, pseudogene",,"7577,ENSG00000108452,OTTHUMG00000059142,,X52357",9606
+ZNF217,Gene,zinc finger protein 217,Zinc fingers C2H2-type,"7764,ENSG00000171940,OTTHUMG00000032764,uc002xwq.5,AF041259",9606
+GUCA1C,Gene,guanylate cyclase activator 1C,EF-hand domain containing,"9626,ENSG00000138472,OTTHUMG00000159204,uc003dxj.3,AF110002",9606
+RNU4-55P,Gene,"RNA, U4 small nuclear 55, pseudogene",,"106481189,ENSG00000222663,,uc058gyw.1,",9606
+GNE,Gene,glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase,,"10020,ENSG00000159921,OTTHUMG00000019899,uc010mlh.5,AF051852",9606
+C11orf52,Gene,chromosome 11 open reading frame 52,,"91894,ENSG00000149300,OTTHUMG00000166888,uc058hgo.1,AK057948",9606
+MMS19,Gene,"MMS19 homolog, cytosolic iron-sulfur assembly component","""Cytosolic iron-sulfur assembly components|Nucleotide excision repair|Armadillo like helical domain containing""","64210,ENSG00000155229,OTTHUMG00000018857,uc001knt.5,AF007151",9606
+SART3,Gene,"spliceosome associated factor 3, U4/U6 recycling protein",RNA binding motif containing,"9733,ENSG00000075856,OTTHUMG00000169449,uc001tmz.2,AB020880",9606
+RPS24P11,Gene,ribosomal protein S24 pseudogene 11,,"100128519,,,,",9606
+DBH-AS1,Gene,DBH antisense RNA 1,Antisense RNAs,"138948,ENSG00000225756,OTTHUMG00000020877,uc031tfk.3,AF129263",9606
+GNAQP1,Gene,G protein subunit alpha q pseudogene 1,,"2777,ENSG00000214077,OTTHUMG00000153563,,U40037",9606
+RN7SL568P,Gene,"RNA, 7SL, cytoplasmic 568, pseudogene",,"106479429,ENSG00000239703,,uc059jnf.1,",9606
+NMB,Gene,neuromedin B,,"4828,ENSG00000197696,OTTHUMG00000148666,uc002bkz.4,",9606
+CDY1B,Gene,chromodomain Y-linked 1B,,"253175,ENSG00000172352,OTTHUMG00000045037,uc004fwa.4,",9606
+ST13P15,Gene,"ST13, Hsp70 interacting protein pseudogene 15",,"100422603,ENSG00000243759,OTTHUMG00000159381,,",9606
+DUX4L24,Gene,double homeobox 4 like 24 (pseudogene),PRD class homeoboxes and pseudogenes,"102723449,ENSG00000274599,OTTHUMG00000189293,,",9606
+MORC4,Gene,MORC family CW-type zinc finger 4,Zinc fingers CW-type,"79710,ENSG00000133131,OTTHUMG00000022155,uc004emu.4,AK021627",9606
+TRIM60,Gene,tripartite motif containing 60,"""Ring finger proteins|Tripartite motif containing""","166655,ENSG00000176979,OTTHUMG00000161262,uc003iqy.2,AK093201",9606
+ZNF474-AS1,Gene,ZNF474 antisense RNA 1,Antisense RNAs,"107986445,ENSG00000249610,OTTHUMG00000162971,,",9606
+IQCF5-AS1,Gene,IQCF5 antisense RNA 1,Antisense RNAs,"101928999,ENSG00000235455,OTTHUMG00000156912,uc032rnu.1,",9606
+RPS20P14,Gene,ribosomal protein S20 pseudogene 14,,"440992,ENSG00000223803,OTTHUMG00000156517,,",9606
+LINC02011,Gene,long intergenic non-protein coding RNA 2011,Long intergenic non-protein coding RNAs,"152274,ENSG00000260902,OTTHUMG00000175698,,AK056398",9606
+ASB15-AS1,Gene,ASB15 antisense RNA 1,Antisense RNAs,"102724555,ENSG00000230442,OTTHUMG00000157115,,",9606
+GGT4P,Gene,gamma-glutamyltransferase 4 pseudogene,Gamma-glutamyltransferases,"643171,ENSG00000280208,OTTHUMG00000189382,,",9606
+CICP15,Gene,capicua transcriptional repressor pseudogene 15,,"100507648,ENSG00000274553,,,",9606
+OR1P1,Gene,olfactory receptor family 1 subfamily P member 1 (gene/pseudogene),"Olfactory receptors, family 1","8391,ENSG00000262085,OTTHUMG00000177731,,AF087927",9606
+ELP5,Gene,elongator acetyltransferase complex subunit 5,Elongator acetyltransferase complex ,"23587,ENSG00000170291,OTTHUMG00000177974,uc002gfg.2,BC002762",9606
+ARPC2,Gene,actin related protein 2/3 complex subunit 2,Actin related protein 2/3 complex subunits,"10109,ENSG00000163466,OTTHUMG00000133618,uc002vhd.4,AF006085",9606
+ARPC1BP1,Gene,ARPC1B pseudogene 1,,"100288663,ENSG00000213081,,,",9606
+ZNF75BP,Gene,"zinc finger protein 75B, pseudogene",,"7628,ENSG00000258212,OTTHUMG00000169428,,X91827",9606
+CPB2,Gene,carboxypeptidase B2,M14 carboxypeptidases,"1361,ENSG00000080618,OTTHUMG00000016867,uc001vaw.4,M75106",9606
+SCARNA15,Gene,small Cajal body-specific RNA 15,Small Cajal body-specific RNAs,"677778,ENSG00000277864,,uc061xcp.1,AJ609485",9606
+TRAPPC2P4,Gene,trafficking protein particle complex 2 pseudogene 4,,"27194,ENSG00000232914,OTTHUMG00000045261,,AC007965",9606
+MAPK10-AS1,Gene,MAPK10 antisense RNA 1,Antisense RNAs,"101929064,ENSG00000250062,OTTHUMG00000161054,,",9606
+KDSR-DT,Gene,KDSR divergent transcript,Divergent transcripts,"118827811,ENSG00000267390,,,",9606
+RAPSN,Gene,receptor associated protein of the synapse,Ring finger proteins,"5913,ENSG00000165917,OTTHUMG00000166891,uc001nfi.2,",9606
+FGFBP2,Gene,fibroblast growth factor binding protein 2,,"83888,ENSG00000137441,OTTHUMG00000128513,uc003gon.4,AB021123",9606
+HCN2,Gene,hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2,Cyclic nucleotide gated channels,"610,ENSG00000099822,OTTHUMG00000180590,uc002lpe.3,AF064877",9606
+RPL23AP73,Gene,ribosomal protein L23a pseudogene 73,,"100271625,ENSG00000244283,OTTHUMG00000157675,,",9606
+EWSAT1,Gene,Ewing sarcoma associated transcript 1,Long non-coding RNAs with non-systematic symbols,"283673,ENSG00000212766,OTTHUMG00000133319,,AK091087",9606
+FLVCR2,Gene,FLVCR heme transporter 2,"""Solute carriers|MicroRNA protein coding host genes""","55640,ENSG00000119686,OTTHUMG00000171487,uc001xrs.3,AK000378",9606
+RPL26P5,Gene,ribosomal protein L26 pseudogene 5,,"654386,,,,",9606
+MIR4646,Gene,microRNA 4646,MicroRNAs,"100616230,ENSG00000266776,,uc021zrw.1,",9606
+VN1R7P,Gene,vomeronasal 1 receptor 7 pseudogene,Vomeronasal receptors,"100132759,ENSG00000275592,OTTHUMG00000188302,,AF253314",9606
+TMEM185B,Gene,transmembrane protein 185B,,"79134,ENSG00000226479,OTTHUMG00000154402,uc002tmj.3,AK024632",9606
+TERF2,Gene,telomeric repeat binding factor 2,"""Myb/SANT domain containing|Shelterin complex""","7014,ENSG00000132604,OTTHUMG00000137566,uc002exd.5,",9606
+SETD6,Gene,"SET domain containing 6, protein lysine methyltransferase",SET domain containing,"79918,ENSG00000103037,OTTHUMG00000150276,uc002enr.4,AK024801",9606
+TBC1D3P3,Gene,TBC1 domain family member 3 pseudogene 3,,"653017,ENSG00000235203,OTTHUMG00000130732,,",9606
+RN7SL785P,Gene,"RNA, 7SL, cytoplasmic 785, pseudogene",,"106480532,ENSG00000266158,,uc064yvi.1,",9606
+LINC02427,Gene,long intergenic non-protein coding RNA 2427,Long intergenic non-protein coding RNAs,"105377585,ENSG00000271538,OTTHUMG00000185265,,",9606
+LPAR6,Gene,lysophosphatidic acid receptor 6,Lysophosphatidic acid receptors,"10161,ENSG00000139679,OTTHUMG00000016895,uc001vcf.4,AF000546",9606
+OR13A1,Gene,olfactory receptor family 13 subfamily A member 1,"Olfactory receptors, family 13","79290,ENSG00000256574,OTTHUMG00000018080,uc001jcc.1,AB065728",9606
+CENPIP1,Gene,centromere protein I pseudogene 1,,"100419337,ENSG00000224778,OTTHUMG00000016482,,",9606
+RNU6ATAC25P,Gene,"RNA, U6atac small nuclear 25, pseudogene",,"106480384,ENSG00000221725,,uc059wsd.1,",9606
+NOVA1,Gene,NOVA alternative splicing regulator 1,,"4857,ENSG00000139910,OTTHUMG00000029385,uc001wpy.4,U04840",9606
+LRRC34,Gene,leucine rich repeat containing 34,,"151827,ENSG00000171757,OTTHUMG00000164419,uc003ffx.4,AK095125",9606
+GLIDR,Gene,glioblastoma down-regulated RNA,Long non-coding RNAs with non-systematic symbols,"389741,ENSG00000278175,OTTHUMG00000189744,,AK092305",9606
+MRPL20-AS1,Gene,MRPL20 antisense RNA 1,Antisense RNAs,"148413,ENSG00000224870,OTTHUMG00000002908,,",9606
+ATG101,Gene,autophagy related 101,Autophagy related,"60673,ENSG00000123395,OTTHUMG00000169611,,AF218031",9606
+LRR1,Gene,leucine rich repeat protein 1,Cyclophilin peptidylprolyl isomerases,"122769,ENSG00000165501,OTTHUMG00000140273,uc001wwn.3,BC030142",9606
+RNA5SP269,Gene,"RNA, 5S ribosomal pseudogene 269",,"100873522,ENSG00000239184,,uc022avo.1,",9606
+SLC6A14P3,Gene,SLC6A14 pseudogene 3,,"100422417,ENSG00000236655,,,",9606
+CCT4P2,Gene,chaperonin containing TCP1 subunit 4 pseudogene 2,,"100131638,ENSG00000225569,OTTHUMG00000021713,,",9606
+LENG8,Gene,leukocyte receptor cluster member 8,,"114823,ENSG00000167615,OTTHUMG00000065548,uc032iea.2,AF211975",9606
+ELOCP6,Gene,elongin C pseudogene 6,,"100462867,ENSG00000225740,OTTHUMG00000041651,,",9606
+HERC2P6,Gene,hect domain and RLD 2 pseudogene 6,,"8918,ENSG00000261418,OTTHUMG00000176416,,",9606
+RNU6-491P,Gene,"RNA, U6 small nuclear 491, pseudogene",,"106479784,ENSG00000251908,,,",9606
+RPL31P23,Gene,ribosomal protein L31 pseudogene 23,,"391581,,,,",9606
+FBXL15,Gene,F-box and leucine rich repeat protein 15,F-box and leucine rich repeat proteins,"79176,ENSG00000107872,OTTHUMG00000018957,uc001kvk.2,BC036120",9606
+ARHGAP36,Gene,Rho GTPase activating protein 36,Rho GTPase activating proteins,"158763,ENSG00000147256,OTTHUMG00000022402,uc004evz.5,",9606
+CCAR1,Gene,cell division cycle and apoptosis regulator 1,"""Spliceosomal A complex|MicroRNA protein coding host genes|Small nucleolar RNA protein coding host genes""","55749,ENSG00000060339,OTTHUMG00000018361,uc001joo.5,AY249140",9606
+NPM1P8,Gene,nucleophosmin 1 pseudogene 8,,"100130233,ENSG00000236285,OTTHUMG00000021333,,",9606
+RNU6-1216P,Gene,"RNA, U6 small nuclear 1216, pseudogene",,"106480098,ENSG00000199460,,,",9606
+AOX3P,Gene,"aldehyde oxidase 3, pseudogene",,"107126360,ENSG00000244301,OTTHUMG00000154534,,",9606
+RAD51-AS1,Gene,RAD51 antisense RNA 1,Antisense RNAs,"100505648,ENSG00000245849,OTTHUMG00000166119,,AK125393",9606
+ZNF726P1,Gene,zinc finger protein 726 pseudogene 1,,"7618,,,,M88376",9606
+ZSWIM7,Gene,zinc finger SWIM-type containing 7,Zinc fingers SWIM-type,"125150,ENSG00000214941,OTTHUMG00000059308,uc002gpf.4,AK093384",9606
+RPL27AP3,Gene,ribosomal protein L27a pseudogene 3,,"100271298,ENSG00000236667,,,",9606
+FRMPD2B,Gene,"FERM and PDZ domain containing 2B, pseudogene",PDZ domain containing,"728798,ENSG00000150175,OTTHUMG00000018093,,",9606
+RPL9P19,Gene,ribosomal protein L9 pseudogene 19,,"100129634,,,,",9606
+OR7H1P,Gene,olfactory receptor family 7 subfamily H member 1 pseudogene,"Olfactory receptors, family 7","390886,ENSG00000226480,OTTHUMG00000154386,,AF399427",9606
+WASH2P,Gene,"WASP family homolog 2, pseudogene",Wiskott-Aldrich Syndrome protein family,"375260,ENSG00000146556,OTTHUMG00000047822,,",9606
+CBX3P9,Gene,chromobox 3 pseudogene 9,,"644101,ENSG00000217241,OTTHUMG00000015436,,",9606
+RNU6-48P,Gene,"RNA, U6 small nuclear 48, pseudogene",,"100887744,ENSG00000206888,,,",9606
+SNORD151,Gene,"small nucleolar RNA, C/D box 151","Small nucleolar RNAs, C/D box","109623468,,,,",9606
+TM4SF18,Gene,transmembrane 4 L six family member 18,,"116441,ENSG00000163762,OTTHUMG00000159582,uc003exa.3,BC014339",9606
+SLC5A4-AS1,Gene,SLC5A4 antisense RNA 1,Antisense RNAs,"110806273,ENSG00000242082,OTTHUMG00000150008,,",9606
+COPS5P2,Gene,COP9 signalosome subunit 5 pseudogene 2,,"112268476,ENSG00000270445,OTTHUMG00000184772,,",9606
+MIR648,Gene,microRNA 648,MicroRNAs,"693233,ENSG00000207780,,uc021wks.1,",9606
+TUBBP2,Gene,tubulin beta pseudogene 2,,"647000,ENSG00000214222,OTTHUMG00000016794,,",9606
+LINC00324,Gene,long intergenic non-protein coding RNA 324,Long intergenic non-protein coding RNAs,"284029,ENSG00000178977,OTTHUMG00000132866,uc002gkp.5,AK092109",9606
+SPIN3,Gene,spindlin family member 3,"""Tudor domain containing|Spindlin family""","169981,ENSG00000204271,OTTHUMG00000021677,uc004dux.2,AL832091",9606
+PPP4R2,Gene,protein phosphatase 4 regulatory subunit 2,Protein phosphatase 4 regulatory subunits,"151987,ENSG00000163605,OTTHUMG00000158816,uc003dph.2,AJ271448",9606
+TMEM250,Gene,transmembrane protein 250,,"90120,ENSG00000238227,OTTHUMG00000020922,uc004cgx.6,",9606
+FREM1,Gene,FRAS1 related extracellular matrix 1,C-type lectin domain containing,"158326,ENSG00000164946,OTTHUMG00000019575,uc003zlm.3,AK058190",9606
+GTPBP3,Gene,"GTP binding protein 3, mitochondrial",,"84705,ENSG00000130299,OTTHUMG00000182766,uc002ngg.5,AF360742",9606
+SNAI2,Gene,snail family transcriptional repressor 2,"""Zinc fingers C2H2-type|SNAG transcriptional repressors""","6591,ENSG00000019549,OTTHUMG00000149912,uc064mrw.1,U97060",9606
+KCNJ2-AS1,Gene,KCNJ2 antisense RNA 1,Antisense RNAs,"400617,ENSG00000267365,OTTHUMG00000180350,uc021uci.1,AK093963",9606
+RARRES2P5,Gene,retinoic acid receptor responder 2 pseudogene 5,,"106480231,ENSG00000260967,OTTHUMG00000176242,,",9606
+AHDC1,Gene,AT-hook DNA binding motif containing 1,,"27245,ENSG00000126705,OTTHUMG00000003398,uc057dvu.1,AK125431",9606
+SLC4A5,Gene,solute carrier family 4 member 5,Solute carriers,"57835,ENSG00000188687,OTTHUMG00000090263,uc061ktd.1,AF243499",9606
+UFSP1,Gene,UFM1 specific peptidase 1 (inactive),,"402682,ENSG00000176125,OTTHUMG00000159662,uc003uxc.4,AF312032",9606
+PIRC97,Gene,piwi-interacting RNA cluster 97,Piwi-interacting RNA clusters,"100313821,,,,",9606
+PWWP2A,Gene,PWWP domain containing 2A,PWWP domain containing,"114825,ENSG00000170234,OTTHUMG00000163546,uc011ded.3,",9606
+MIR548AV,Gene,microRNA 548av,MicroRNA MIR548 family,"100847083,ENSG00000263750,,uc032hhi.1,",9606
+LINC01775,Gene,long intergenic non-protein coding RNA 1775,Long intergenic non-protein coding RNAs,"101928602,ENSG00000267201,OTTHUMG00000180433,,",9606
+MIR657,Gene,microRNA 657,MicroRNAs,"724027,ENSG00000207736,,uc021uev.1,",9606
+SPTLC1P5,Gene,serine palmitoyltransferase long chain base subunit 1 pseudogene 5,,"100874512,ENSG00000227922,OTTHUMG00000017109,,",9606
+RPL32P34,Gene,ribosomal protein L32 pseudogene 34,,"100133162,ENSG00000239524,OTTHUMG00000157976,,",9606
+ZFP1,Gene,ZFP1 zinc finger protein,Zinc fingers C2H2-type,"162239,ENSG00000184517,OTTHUMG00000137602,uc002fdq.4,AK094761",9606
+CTF2P,Gene,"cardiotrophin 2, pseudogene",Interleukin 6 type cytokine family,"100289419,ENSG00000230447,OTTHUMG00000154385,,",9606
+RPSAP35,Gene,ribosomal protein SA pseudogene 35,,"100270916,ENSG00000237684,OTTHUMG00000059446,,",9606
+ZNF875,Gene,zinc finger protein 875,Zinc fingers C2H2-type,"284459,ENSG00000181666,OTTHUMG00000181937,uc060xtq.1,M20675",9606
+SPIN2P1,Gene,SPIN2 family pseudogene 1,,"100129997,ENSG00000237708,,,",9606
+TMUB1,Gene,transmembrane and ubiquitin like domain containing 1,,"83590,ENSG00000164897,OTTHUMG00000158621,uc003wjd.4,BC000936",9606
+EIF5B,Gene,eukaryotic translation initiation factor 5B,,"9669,ENSG00000158417,OTTHUMG00000153242,uc002tab.4,AF078035",9606
+ZNF626,Gene,zinc finger protein 626,Zinc fingers C2H2-type,"199777,ENSG00000188171,OTTHUMG00000179733,uc060wew.1,BC007116",9606
+DNAJB13,Gene,DnaJ heat shock protein family (Hsp40) member B13,DNAJ (HSP40) heat shock proteins,"374407,ENSG00000187726,OTTHUMG00000168093,uc001ouo.3,AF516185",9606
+PSMA6P1,Gene,proteasome subunit alpha 6 pseudogene 1,,"64596,ENSG00000215414,OTTHUMG00000036322,,AC010877",9606
+KCMF1,Gene,potassium channel modulatory factor 1,Zinc fingers ZZ-type,"56888,ENSG00000176407,OTTHUMG00000153004,uc002sox.5,AF155652",9606
+ASPSCR1,Gene,"ASPSCR1 tether for SLC2A4, UBX domain containing",UBX domain containing,"79058,ENSG00000169696,OTTHUMG00000178438,uc002kcx.3,AF324219",9606
+RNA5SP438,Gene,"RNA, 5S ribosomal pseudogene 438",,"100873687,ENSG00000252370,,uc060dxw.1,",9606
+HSP90AB2P,Gene,"heat shock protein 90 alpha family class B member 2, pseudogene",,"391634,ENSG00000205940,OTTHUMG00000160089,,AY956763",9606
+AFAP1,Gene,actin filament associated protein 1,Pleckstrin homology domain containing,"60312,ENSG00000196526,OTTHUMG00000125515,uc003gkg.2,AB209676",9606
+RNU6-619P,Gene,"RNA, U6 small nuclear 619, pseudogene",,"106479840,ENSG00000202016,,,",9606
+NIPA2P2,Gene,NIPA2 pseudogene 2,,"100130204,ENSG00000241022,OTTHUMG00000158821,,",9606
+RPL5P28,Gene,ribosomal protein L5 pseudogene 28,,"100131535,ENSG00000235264,OTTHUMG00000019305,,",9606
+GSN-AS1,Gene,GSN antisense RNA 1,Antisense RNAs,"57000,ENSG00000235865,OTTHUMG00000020586,uc033dha.1,AF220263",9606
+OR7E28P,Gene,olfactory receptor family 7 subfamily E member 28 pseudogene,"Olfactory receptors, family 7","26645,ENSG00000251491,OTTHUMG00000153968,,",9606
+ALDOC,Gene,"aldolase, fructose-bisphosphate C","""Endoribonucleases|Aldolases""","230,ENSG00000109107,OTTHUMG00000132605,uc002hbp.4,AF054987",9606
+PRUNEP1,Gene,prune exopolyphosphatase pseudogene 1,,"100129595,ENSG00000234706,OTTHUMG00000016615,,",9606
+TAS2R39,Gene,taste 2 receptor member 39,Taste 2 receptors,"259285,ENSG00000236398,OTTHUMG00000152636,uc011ksw.2,AF494230",9606
+FCF1P9,Gene,FCF1 pseudogene 9,,"106480444,ENSG00000231478,OTTHUMG00000021943,,",9606
+RN7SL446P,Gene,"RNA, 7SL, cytoplasmic 446, pseudogene",,"106479385,ENSG00000244544,,uc063agl.1,",9606
+RPL31P26,Gene,ribosomal protein L31 pseudogene 26,,"100130537,,,,",9606
+CCDC25,Gene,coiled-coil domain containing 25,,"55246,ENSG00000147419,OTTHUMG00000132173,uc003xgc.4,AK001715",9606
+LINC02053,Gene,long intergenic non-protein coding RNA 2053,Long intergenic non-protein coding RNAs,"100505609,ENSG00000241696,OTTHUMG00000157863,,",9606
+RPS26P40,Gene,ribosomal protein S26 pseudogene 40,,"338611,ENSG00000231366,OTTHUMG00000018415,,",9606
+CRLF3P2,Gene,CRLF3 pseudogene 2,,"285706,ENSG00000250391,,,",9606
+VN1R67P,Gene,vomeronasal 1 receptor 67 pseudogene,Vomeronasal receptors,"100131118,ENSG00000260722,OTTHUMG00000176632,,",9606
+RPLP0P5,Gene,ribosomal protein lateral stalk subunit P0 pseudogene 5,,"643779,,,,",9606
+RPL23AP12,Gene,ribosomal protein L23a pseudogene 12,,"391282,ENSG00000228861,OTTHUMG00000066031,,",9606
+ASIC2,Gene,acid sensing ion channel subunit 2,Acid sensing ion channel subunits,"40,ENSG00000108684,OTTHUMG00000132885,uc002hhu.4,AL834182",9606
+INE2,Gene,inactivation escape 2,Long non-coding RNAs with non-systematic symbols,"8551,ENSG00000281371,OTTHUMG00000189580,uc004cxf.1,Y10697",9606
+MRPL17,Gene,mitochondrial ribosomal protein L17,"""Mitochondrial ribosomal proteins|Large subunit mitochondrial ribosomal proteins""","63875,ENSG00000158042,OTTHUMG00000165505,uc001men.3,AB051620",9606
+TMEM201,Gene,transmembrane protein 201,,"199953,ENSG00000188807,OTTHUMG00000057457,uc021ofy.2,",9606
+H2AW,Gene,H2A.W histone,H2A histones,"92815,ENSG00000181218,OTTHUMG00000040046,uc001hsy.4,AY131974",9606
+RN7SL66P,Gene,"RNA, 7SL, cytoplasmic 66, pseudogene",,"106480485,ENSG00000264030,,uc061gqh.1,",9606
+TCF23,Gene,transcription factor 23,Basic helix-loop-helix proteins,"150921,ENSG00000163792,OTTHUMG00000152031,uc010ylg.3,AC013403",9606
+TRAV32,Gene,T cell receptor alpha variable 32 (pseudogene),T cell receptor alpha locus at 14q11.2,"28650,ENSG00000258905,OTTHUMG00000170661,,AE000660",9606
+ATF1P1,Gene,activating transcription factor 1 pseudogene 1,,"100128159,ENSG00000219387,OTTHUMG00000015225,,",9606
+LINC01300,Gene,long intergenic non-protein coding RNA 1300,Long intergenic non-protein coding RNAs,"731779,ENSG00000253595,OTTHUMG00000164482,,",9606
+ERN1,Gene,endoplasmic reticulum to nucleus signaling 1,Endoribonucleases,"2081,ENSG00000178607,OTTHUMG00000178879,uc002jdz.3,AF059198",9606
+MTCO3P22,Gene,MT-CO3 pseudogene 22,,"100289371,ENSG00000270388,OTTHUMG00000185132,,",9606
+OFD1P15Y,Gene,OFD1 pseudogene 15 Y-linked,,"386699,ENSG00000234888,OTTHUMG00000045278,,",9606
+KCNC1,Gene,potassium voltage-gated channel subfamily C member 1,Potassium voltage-gated channels,"3746,ENSG00000129159,OTTHUMG00000166359,uc009yhc.2,M96747",9606
+BGLAP,Gene,bone gamma-carboxyglutamate protein,Gla domain containing,"632,ENSG00000242252,OTTHUMG00000014819,uc001fnt.4,X04143",9606
+LINC00692,Gene,long intergenic non-protein coding RNA 692,Long intergenic non-protein coding RNAs,"285326,ENSG00000230891,OTTHUMG00000155601,uc003cdo.4,BC033370",9606
+LAIR2,Gene,leukocyte associated immunoglobulin like receptor 2,"""CD molecules|Immunoglobulin like domain containing""","3904,ENSG00000167618,OTTHUMG00000065697,uc002qgc.4,AF013250",9606
+RPL13P7,Gene,ribosomal protein L13 pseudogene 7,,"391140,,,,",9606
+CYP2D6,Gene,cytochrome P450 family 2 subfamily D member 6,Cytochrome P450 family 2,"1565,ENSG00000100197,OTTHUMG00000150918,uc003bce.4,M20403",9606
+MIR3908,Gene,microRNA 3908,MicroRNAs,"100500909,ENSG00000266655,,uc021rfx.1,",9606
+AOAH,Gene,acyloxyacyl hydrolase,,"313,ENSG00000136250,OTTHUMG00000023566,uc032zjw.2,BC025698",9606
+RNU6-816P,Gene,"RNA, U6 small nuclear 816, pseudogene",,"106480401,ENSG00000212216,,,",9606
+GTF2IP11,Gene,general transcription factor IIi pseudogene 11,,"106480346,ENSG00000255199,OTTHUMG00000166758,,",9606
+CFB,Gene,complement factor B,"""Sushi domain containing|Complement system activation components""","629,ENSG00000243649,OTTHUMG00000031198,uc063wuq.1,L15702",9606
+NUP54,Gene,nucleoporin 54,Nucleoporins,"53371,ENSG00000138750,OTTHUMG00000130098,uc003hjs.5,AF157322",9606
+KRT8P8,Gene,keratin 8 pseudogene 8,,"402429,ENSG00000223940,OTTHUMG00000024182,,",9606
+LINC01830,Gene,long intergenic non-protein coding RNA 1830,Long intergenic non-protein coding RNAs,"105374322,ENSG00000234207,OTTHUMG00000151808,,",9606
+TRNP1,Gene,TMF1 regulated nuclear protein 1,,"388610,ENSG00000253368,OTTHUMG00000004277,uc001bnj.5,""AI366714|AL356390|BC069216|CH471059""",9606
+BMP8B,Gene,bone morphogenetic protein 8b,Bone morphogenetic proteins,"656,ENSG00000116985,OTTHUMG00000009247,uc001cdz.2,BC023526",9606
+CCL22,Gene,C-C motif chemokine ligand 22,Chemokine ligands,"6367,ENSG00000102962,OTTHUMG00000133454,uc002elh.4,U83171",9606
+GUSBP4,Gene,GUSB pseudogene 4,,"375513,ENSG00000239650,OTTHUMG00000014924,,",9606
+TMEM130,Gene,transmembrane protein 130,,"222865,ENSG00000166448,OTTHUMG00000154419,uc011kir.3,",9606
+VCX3B,Gene,variable charge X-linked 3B,Variable charge X/Y family,"425054,ENSG00000205642,OTTHUMG00000021106,uc011mht.3,",9606
+KRT18P35,Gene,keratin 18 pseudogene 35,,"391584,ENSG00000215606,OTTHUMG00000160143,,",9606
+RNU4-75P,Gene,"RNA, U4 small nuclear 75, pseudogene",,"106479593,ENSG00000201491,,uc057ipq.1,",9606
+GAPDHP24,Gene,glyceraldehyde 3 phosphate dehydrogenase pseudogene 24,,"391162,ENSG00000185221,OTTHUMG00000037014,,",9606
+RPSAP8,Gene,ribosomal protein SA pseudogene 8,,"643617,ENSG00000230592,OTTHUMG00000021999,,",9606
+TXNP6,Gene,thioredoxin pseudogene 6,,"171560,ENSG00000234036,OTTHUMG00000160877,,",9606
+STK17A,Gene,serine/threonine kinase 17a,Death associated protein kinases,"9263,ENSG00000164543,OTTHUMG00000022825,uc003tih.4,AB011420",9606
+PRLR,Gene,prolactin receptor,,"5618,ENSG00000113494,OTTHUMG00000090789,uc032uqm.2,",9606
+DNAH12,Gene,dynein axonemal heavy chain 12,"Dyneins, axonemal inner arm I1/f complex subunits","201625,ENSG00000174844,OTTHUMG00000158598,uc032rop.2,""U53532|AK126276""",9606
+PTP4A1P5,Gene,PTP4A1 pseudogene 5,,"100289380,ENSG00000235642,OTTHUMG00000021299,,",9606
+CDC42-IT1,Gene,CDC42 intronic transcript 1,Intronic transcripts,"100874292,ENSG00000230068,OTTHUMG00000002890,uc057ddo.1,",9606
+FAM96AP2,Gene,family with sequence similarity 96 member A pseudogene 2,,"391174,ENSG00000224566,OTTHUMG00000039501,,",9606
+CASP2,Gene,caspase 2,"""Caspases|Protein phosphatase 1 regulatory subunits|Caspase recruitment domain containing""","835,ENSG00000106144,OTTHUMG00000023641,uc003wco.3,""AK096245|BC002427|BM998653|BX537669|CB988674|U13021""",9606
+KRT8P10,Gene,keratin 8 pseudogene 10,,"344320,ENSG00000231203,OTTHUMG00000154237,,",9606
+HLA-V,Gene,"major histocompatibility complex, class I, V (pseudogene)",Histocompatibility complex,"352962,ENSG00000181126,OTTHUMG00000031277,,M96332",9606
+LINC02440,Gene,long intergenic non-protein coding RNA 2440,Long intergenic non-protein coding RNAs,"105370015,ENSG00000255618,OTTHUMG00000168911,,",9606
+TBX2,Gene,T-box transcription factor 2,T-box transcription factors,"6909,ENSG00000121068,OTTHUMG00000156986,uc010wox.3,AB209378",9606
+RNU6-82P,Gene,"RNA, U6 small nuclear 82, pseudogene",,"100873781,ENSG00000200840,,,",9606
+OR11G2,Gene,olfactory receptor family 11 subfamily G member 2,"Olfactory receptors, family 11","390439,ENSG00000196832,OTTHUMG00000167700,uc010tlb.3,",9606
+PTPN9,Gene,protein tyrosine phosphatase non-receptor type 9,Protein tyrosine phosphatases non-receptor type,"5780,ENSG00000169410,OTTHUMG00000142838,uc002bal.5,",9606
+LINC02649,Gene,long intergenic non-protein coding RNA 2649,Long intergenic non-protein coding RNAs,"399715,ENSG00000215244,,,",9606
+UNC50,Gene,unc-50 inner nuclear membrane RNA binding protein,,"25972,ENSG00000115446,OTTHUMG00000130562,uc002szc.5,",9606
+ZNF721,Gene,zinc finger protein 721,Zinc fingers C2H2-type,"170960,ENSG00000182903,OTTHUMG00000112450,uc003gag.5,AK092362",9606
+ASB13,Gene,ankyrin repeat and SOCS box containing 13,Ankyrin repeat domain containing,"79754,ENSG00000196372,OTTHUMG00000017603,uc001iig.3,AK091935",9606
+ATP2C2,Gene,ATPase secretory pathway Ca2+ transporting 2,ATPases Ca2+ transporting,"9914,ENSG00000064270,OTTHUMG00000176737,uc002fhx.4,AK091051",9606
+MIR520E,Gene,microRNA 520e,MicroRNA MIR515 family,"574461,ENSG00000207599,,uc021uzn.1,",9606
+MRPS9-AS2,Gene,MRPS9 antisense RNA 2,Antisense RNAs,"102724691,ENSG00000224509,OTTHUMG00000153077,,",9606
+RPL12P36,Gene,ribosomal protein L12 pseudogene 36,,"100271408,ENSG00000242423,OTTHUMG00000158154,,",9606
+MIR1287,Gene,microRNA 1287,MicroRNAs,"100302133,ENSG00000284415,,uc021pwu.1,",9606
+DDX20,Gene,DEAD-box helicase 20,"""DEAD-box helicases|Gemins""","11218,ENSG00000064703,OTTHUMG00000011956,uc001ebs.4,AF106019",9606
+LDHAP4,Gene,lactate dehydrogenase A pseudogene 4,,"158222,ENSG00000214110,OTTHUMG00000019577,,",9606
+CCNQP3,Gene,CCNQ pseudogene 3,,"100421566,ENSG00000231184,OTTHUMG00000016487,,",9606
+PRELID3BP3,Gene,PRELI domain containing 3B pseudogene 3,,"100128712,ENSG00000264907,OTTHUMG00000179194,,",9606
+LY6L,Gene,lymphocyte antigen 6 family member L,LY6/PLAUR domain containing,"101928108,ENSG00000261667,OTTHUMG00000173037,,",9606
+SLX1A,Gene,"SLX1 homolog A, structure-specific endonuclease subunit",,"548593,ENSG00000132207,OTTHUMG00000176859,uc002dxg.4,",9606
+PPM1F,Gene,"protein phosphatase, Mg2+/Mn2+ dependent 1F","Protein phosphatases, Mg2+/Mn2+ dependent","9647,ENSG00000100034,OTTHUMG00000150835,uc002zvp.3,D13640",9606
+PPIL1P1,Gene,peptidylprolyl isomerase like 1 pseudogene 1,,"150947,ENSG00000237951,OTTHUMG00000151937,,",9606
+FIBP,Gene,FGF1 intracellular binding protein,,"9158,ENSG00000172500,OTTHUMG00000166846,uc001oge.4,AF010187",9606
+RPL21P77,Gene,ribosomal protein L21 pseudogene 77,,"100271183,,,,",9606
+RNU6-958P,Gene,"RNA, U6 small nuclear 958, pseudogene",,"106481482,ENSG00000252804,,,",9606
+SUN2,Gene,Sad1 and UNC84 domain containing 2,SUN family,"25777,ENSG00000100242,OTTHUMG00000151031,uc010gxr.3,AF202723",9606
+MIR3621,Gene,microRNA 3621,MicroRNAs,"100500811,ENSG00000263697,,uc022bqc.1,",9606
+LINC00115,Gene,long intergenic non-protein coding RNA 115,Long intergenic non-protein coding RNAs,"79854,ENSG00000225880,OTTHUMG00000141258,uc010nxx.3,BC017762",9606
+RNU6-81P,Gene,"RNA, U6 small nuclear 81, pseudogene",,"100873780,ENSG00000202478,,,",9606
+ETF1P2,Gene,eukaryotic translation termination factor 1 pseudogene 2,,"6825,ENSG00000240132,OTTHUMG00000157354,,",9606
+MYLIP,Gene,myosin regulatory light chain interacting protein,"""Ring finger proteins|FERM domain containing|MicroRNA protein coding host genes""","29116,ENSG00000007944,OTTHUMG00000016405,uc003nbq.4,AF187016",9606
+SLC50A1,Gene,solute carrier family 50 member 1,Solute carriers,"55974,ENSG00000169241,OTTHUMG00000035333,uc001fhj.5,""AF126023|AF126024""",9606
+UBAC1,Gene,UBA domain containing 1,,"10422,ENSG00000130560,OTTHUMG00000020920,uc004cgt.3,AF176796",9606
+RNU6ATAC18P,Gene,"RNA, U6atac small nuclear 18, pseudogene",,"106479551,ENSG00000221340,,uc057cjz.1,",9606
+GSTM2,Gene,glutathione S-transferase mu 2,Soluble glutathione S-transferases,"2946,ENSG00000213366,OTTHUMG00000011638,uc001dyj.4,M63509",9606
+HNRNPUL1,Gene,heterogeneous nuclear ribonucleoprotein U like 1,,"11100,ENSG00000105323,OTTHUMG00000182740,uc002oqb.5,AJ007509",9606
+NAPGP2,Gene,"N-ethylmaleimide-sensitive factor attachment protein, gamma pseudogene 2",,"100422429,ENSG00000275906,OTTHUMG00000187607,,",9606
+ZNF418,Gene,zinc finger protein 418,Zinc fingers C2H2-type,"147686,ENSG00000196724,OTTHUMG00000183448,uc002qqs.1,""AB075836|AY695825""",9606
+AVPR1B,Gene,arginine vasopressin receptor 1B,Arginine vasopressin and oxytocin receptors,"553,ENSG00000198049,OTTHUMG00000184377,uc001hds.3,D31833",9606
+NMNAT1P5,Gene,NMNAT1 pseudogene 5,,"100129256,ENSG00000259573,OTTHUMG00000172010,,",9606
+SAMD3,Gene,sterile alpha motif domain containing 3,Sterile alpha motif domain containing,"154075,ENSG00000164483,OTTHUMG00000015556,uc003qbx.5,AK091351",9606
+HPRT1P2,Gene,hypoxanthine phosphoribosyltransferase 1 pseudogene 2,,"3254,ENSG00000250587,OTTHUMG00000161944,,",9606
+EVI5L,Gene,ecotropic viral integration site 5 like,,"115704,ENSG00000142459,OTTHUMG00000182454,uc002min.4,BC014111",9606
+MIR611,Gene,microRNA 611,MicroRNAs,"693196,ENSG00000284108,,uc021qki.1,",9606
+THAP12P8,Gene,THAP domain containing 12 pseudogene 8,,"645939,ENSG00000223963,OTTHUMG00000039933,,",9606
+CCDC88C,Gene,coiled-coil domain containing 88C,,"440193,ENSG00000015133,OTTHUMG00000171099,uc010aty.4,",9606
+DEPP1,Gene,DEPP1 autophagy regulator,,"11067,ENSG00000165507,OTTHUMG00000018063,uc001jbr.5,AB022718",9606
+RPA2P3,Gene,replication protein A2 pseudogene 3,,"100420359,ENSG00000255547,OTTHUMG00000167592,,",9606
+SETP3,Gene,SET pseudogene 3,,"619349,ENSG00000266648,OTTHUMG00000179241,,",9606
+SMCO4,Gene,single-pass membrane protein with coiled-coil domains 4,,"56935,ENSG00000166002,OTTHUMG00000167442,uc001pds.5,BC031564",9606
+SRSF10P1,Gene,serine and arginine rich splicing factor 10 pseudogene 1,,"100130799,ENSG00000267717,OTTHUMG00000180041,,",9606
+DAW1,Gene,dynein assembly factor with WD repeats 1,WD repeat domain containing,"164781,ENSG00000123977,OTTHUMG00000133190,uc002vpn.2,",9606
+MEMO1P2,Gene,mediator of cell motility 1 pseudogene 2,,"645175,ENSG00000213117,,,",9606
+MIR551B,Gene,microRNA 551b,MicroRNA MIR551 family,"693136,ENSG00000207717,,uc021xha.1,",9606
+OR5E1P,Gene,olfactory receptor family 5 subfamily E member 1 pseudogene,"Olfactory receptors, family 5","26343,ENSG00000170688,OTTHUMG00000154333,,X89671",9606
+SNORD155,Gene,"small nucleolar RNA, C/D box 155","Small nucleolar RNAs, C/D box","109623450,,,,",9606
+LINC02423,Gene,long intergenic non-protein coding RNA 2423,Long intergenic non-protein coding RNAs,"105370014,ENSG00000256750,OTTHUMG00000168902,,",9606
+SYTL3,Gene,synaptotagmin like 3,Synaptotagmin like tandem C2 proteins,"94120,ENSG00000164674,OTTHUMG00000015916,uc003qrs.3,AK055750",9606
+RNU1-117P,Gene,"RNA, U1 small nuclear 117, pseudogene",,"106480189,ENSG00000252850,,,",9606
+MIR380,Gene,microRNA 380,MicroRNA MIR379 family,"494329,ENSG00000198982,,,",9606
+LCE1C,Gene,late cornified envelope 1C,Late cornified envelope proteins,"353133,ENSG00000197084,OTTHUMG00000012445,uc031uzj.2,",9606
+LY96,Gene,lymphocyte antigen 96,,"23643,ENSG00000154589,OTTHUMG00000164504,uc003yad.4,AB018549",9606
+MIR452,Gene,microRNA 452,MicroRNAs,"574412,ENSG00000283751,,uc065bqy.1,",9606
+SNRPFP4,Gene,small nuclear ribonucleoprotein polypeptide F pseudogene 4,,"100874412,ENSG00000235627,OTTHUMG00000156827,,",9606
+RN7SL698P,Gene,"RNA, 7SL, cytoplasmic 698, pseudogene",,"106481113,ENSG00000244232,,uc062noo.1,",9606
+MTND5P2,Gene,MT-ND5 pseudogene 2,,"100873209,ENSG00000229622,OTTHUMG00000017222,,",9606
+FAM193B,Gene,family with sequence similarity 193 member B,,"54540,ENSG00000146067,OTTHUMG00000163396,uc003mhu.4,",9606
+RAB21,Gene,"RAB21, member RAS oncogene family","RAB, member RAS oncogene GTPases","23011,ENSG00000080371,OTTHUMG00000169572,uc001swt.4,AF091035",9606
+HS6ST2-AS1,Gene,HS6ST2 antisense RNA 1,Antisense RNAs,"100874102,ENSG00000235849,OTTHUMG00000022427,uc031tkk.2,",9606
+MIR3138,Gene,microRNA 3138,MicroRNAs,"100423011,ENSG00000264931,,uc021xlx.1,",9606
+RNA5SP297,Gene,"RNA, 5S ribosomal pseudogene 297",,"106479003,ENSG00000212331,,uc057rdl.1,",9606
+SLC45A4,Gene,solute carrier family 45 member 4,Solute carriers,"57210,ENSG00000022567,OTTHUMG00000164393,uc003ywd.3,AB032952",9606
+KIFBP,Gene,kinesin family binding protein,Tetratricopeptide repeat domain containing,"26128,ENSG00000198954,OTTHUMG00000018363,,BC012180",9606
+PHBP14,Gene,prohibitin pseudogene 14,,"100873751,ENSG00000248913,OTTHUMG00000161191,,",9606
+RN7SL196P,Gene,"RNA, 7SL, cytoplasmic 196, pseudogene",,"106479293,ENSG00000274424,,uc021shk.2,",9606
+ST7L,Gene,suppression of tumorigenicity 7 like,,"54879,ENSG00000007341,OTTHUMG00000011753,uc001eci.4,AB081317",9606
+UNC13A,Gene,unc-13 homolog A,UNC13 homologs,"23025,ENSG00000130477,OTTHUMG00000163877,uc060vkq.1,AB028955",9606
+BOP1,Gene,BOP1 ribosomal biogenesis factor,"""WD repeat domain containing|MicroRNA protein coding host genes""","23246,ENSG00000261236,OTTHUMG00000174603,uc033ccj.2,AK024840",9606
+ST6GALNAC5,Gene,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5","""Sialyltransferases|MicroRNA protein coding host genes""","81849,ENSG00000117069,OTTHUMG00000009687,uc001dhi.4,",9606
+HLA-DRB8,Gene,"major histocompatibility complex, class II, DR beta 8 (pseudogene)",Histocompatibility complex,"3130,ENSG00000233697,OTTHUMG00000138997,,""M20556|GL000253|GL000256""",9606
+FRA2H,Gene,"fragile site, aphidicolin type, common, fra(2)(q32.1)",,"2380,,,,",9606
+CACNA2D3-AS1,Gene,CACNA2D3 antisense RNA 1,Antisense RNAs,"100874237,ENSG00000243715,OTTHUMG00000158579,uc003dhk.1,",9606
+RN7SKP189,Gene,RN7SK pseudogene 189,,"106479180,ENSG00000201912,,uc065bkv.1,",9606
+MIR521-1,Gene,microRNA 521-1,MicroRNA MIR515 family,"574494,ENSG00000207634,,uc021vas.1,",9606
+MIR379,Gene,microRNA 379,MicroRNA MIR379 family,"494328,ENSG00000199088,,uc010awa.2,",9606
+UBE2D1,Gene,ubiquitin conjugating enzyme E2 D1,Ubiquitin conjugating enzymes E2,"7321,ENSG00000072401,OTTHUMG00000018269,uc001jke.3,BC015997",9606
+FAF2,Gene,Fas associated factor family member 2,UBX domain containing,"23197,ENSG00000113194,OTTHUMG00000163228,uc003mej.4,BC015791",9606
+ATP6V1E1P2,Gene,ATPase H+ transporting V1 subunit E1 pseudogene 2,,"100462844,ENSG00000266549,OTTHUMG00000179527,,",9606
+SMC2,Gene,structural maintenance of chromosomes 2,"""Structural maintenance of chromosomes proteins|Condensin I subunits|Condensin II subunits""","10592,ENSG00000136824,OTTHUMG00000020401,uc011lvl.3,AF092563",9606
+GDPD4,Gene,glycerophosphodiester phosphodiesterase domain containing 4,,"220032,ENSG00000178795,OTTHUMG00000165136,uc001oyf.3,AY326450",9606
+SNORD34,Gene,"small nucleolar RNA, C/D box 34","Small nucleolar RNAs, C/D box","26817,ENSG00000202503,,uc061bei.1,X94600",9606
+RPL35P6,Gene,ribosomal protein L35 pseudogene 6,,"100271007,ENSG00000244018,OTTHUMG00000158575,,",9606
+ZNF431,Gene,zinc finger protein 431,Zinc fingers C2H2-type,"170959,ENSG00000196705,OTTHUMG00000182835,uc002npp.3,AB075849",9606
+CEP135,Gene,centrosomal protein 135,,"9662,ENSG00000174799,OTTHUMG00000160748,uc003hbi.5,AB014535",9606
+GLULP1,Gene,glutamate-ammonia ligase pseudogene 1,,"2753,,,,",9606
+LINC00668,Gene,long intergenic non-protein coding RNA 668,Long intergenic non-protein coding RNAs,"400643,ENSG00000265933,OTTHUMG00000178875,uc002kng.1,",9606
+CNKSR1,Gene,connector enhancer of kinase suppressor of Ras 1,"""Pleckstrin homology domain containing|Sterile alpha motif domain containing|PDZ domain containing""","10256,ENSG00000142675,OTTHUMG00000007541,uc001blm.5,AF100153",9606
+RARG,Gene,retinoic acid receptor gamma,Nuclear hormone receptors,"5916,ENSG00000172819,OTTHUMG00000048077,uc001scf.4,M57707",9606
+NHLRC4,Gene,NHL repeat containing 4,,"283948,ENSG00000257108,OTTHUMG00000047857,uc021szs.3,",9606
+TAF11L7,Gene,TATA-box binding protein associated factor 11 like 7,,"112488736,ENSG00000284465,,,",9606
+LINC00158,Gene,long intergenic non-protein coding RNA 158,Long intergenic non-protein coding RNAs,"54072,ENSG00000185433,OTTHUMG00000078368,uc002ylk.3,",9606
+NEDD1,Gene,NEDD1 gamma-tubulin ring complex targeting factor,WD repeat domain containing,"121441,ENSG00000139350,OTTHUMG00000170604,uc001teu.5,",9606
+TAF13P1,Gene,TATA-box binding protein associated factor 13 pseudogene 1,,"246112,,,,AL049697",9606
+RNU2-39P,Gene,"RNA, U2 small nuclear 39, pseudogene",,"106480214,ENSG00000222536,,,",9606
+TXNP1,Gene,thioredoxin pseudogene 1,,"93202,ENSG00000232823,OTTHUMG00000019154,,",9606
+ZNF407-AS1,Gene,ZNF407 antisense RNA 1,Antisense RNAs,"400657,ENSG00000264247,OTTHUMG00000179121,,",9606
+RNU6-639P,Gene,"RNA, U6 small nuclear 639, pseudogene",,"106479849,ENSG00000206801,,,",9606
+TRT-TGT3-1,Gene,tRNA-Thr (anticodon TGT) 3-1,Cytoplasmic transfer RNAs,"7237,,,,HG984060",9606
+PARP16,Gene,poly(ADP-ribose) polymerase family member 16,"""Poly(ADP-ribose) polymerases|Small nucleolar RNA protein coding host genes""","54956,ENSG00000138617,OTTHUMG00000133138,uc002aoq.4,AK000516",9606
+PRM2,Gene,protamine 2,,"5620,ENSG00000122304,OTTHUMG00000172317,uc002dau.2,",9606
+TRGJP1,Gene,T cell receptor gamma joining P1,T cell receptor gamma locus at 7p14,"6971,ENSG00000211692,OTTHUMG00000155226,uc064cxt.1,X08084",9606
+GPATCH8,Gene,G-patch domain containing 8,G-patch domain containing,"23131,ENSG00000186566,OTTHUMG00000181818,uc002igw.3,AB011125",9606
+TRC-GCA12-1,Gene,tRNA-Cys (anticodon GCA) 12-1,Cytoplasmic transfer RNAs,"100189075,,,,HG983702",9606
+H1-9P,Gene,"H1.9 linker histone, pseudogene",H1 histones,"373861,ENSG00000188662,OTTHUMG00000162025,,AY286318",9606
+DCAF10,Gene,DDB1 and CUL4 associated factor 10,"""WD repeat domain containing|DDB1 and CUL4 associated factors""","79269,ENSG00000122741,OTTHUMG00000019934,uc004aao.5,BC003520",9606
+BACE2,Gene,beta-secretase 2,,"25825,ENSG00000182240,OTTHUMG00000086742,uc002yyw.5,AF117892",9606
+GPX1P2,Gene,glutathione peroxidase pseudogene 2,,"2884,ENSG00000215326,OTTHUMG00000078697,,",9606
+CTBP1-DT,Gene,CTBP1 divergent transcript,Divergent transcripts,"92070,ENSG00000196810,OTTHUMG00000160166,,AK056133",9606
+WASF5P,Gene,"WASP family member 5, pseudogene",Wiskott-Aldrich Syndrome protein family,"387122,ENSG00000231402,OTTHUMG00000031266,,",9606
+CD1B,Gene,CD1b molecule,"""CD molecules|C1-set domain containing""","910,ENSG00000158485,OTTHUMG00000017513,uc001frx.4,M28826",9606
+SPATA18,Gene,spermatogenesis associated 18,,"132671,ENSG00000163071,OTTHUMG00000128698,uc003gzl.4,BC025396",9606
+UBE3AP2,Gene,ubiquitin protein ligase E3A pseudogene 2,,"7339,ENSG00000228941,OTTHUMG00000084863,,AF010599",9606
+RSL24D1,Gene,ribosomal L24 domain containing 1,,"51187,ENSG00000137876,OTTHUMG00000131957,uc002acn.4,AF201949",9606
+RPL5P15,Gene,ribosomal protein L5 pseudogene 15,,"100270836,ENSG00000240412,OTTHUMG00000157698,,",9606
+GSC2,Gene,goosecoid homeobox 2,PRD class homeoboxes and pseudogenes,"2928,ENSG00000063515,OTTHUMG00000150122,uc011ags.3,",9606
+RN7SL503P,Gene,"RNA, 7SL, cytoplasmic 503, pseudogene",,"106481060,ENSG00000240374,,uc057ers.1,",9606
+ZDHHC20-IT1,Gene,ZDHHC20 intronic transcript 1,Intronic transcripts,"100874367,ENSG00000236953,OTTHUMG00000046192,uc058vvu.1,",9606
+MARK3,Gene,microtubule affinity regulating kinase 3,,"4140,ENSG00000075413,OTTHUMG00000171789,uc001ymw.5,M80359",9606
+SEPTIN14P23,Gene,septin 14 pseudogene 23,,"107126290,,,,",9606
+MAFA,Gene,MAF bZIP transcription factor A,Basic leucine zipper proteins,"389692,ENSG00000182759,OTTHUMG00000165037,uc003yyc.3,AY083269",9606
+LINC02883,Gene,long intergenic non-protein coding RNA 2883,Long intergenic non-protein coding RNAs,"101929679,ENSG00000259416,,,",9606
+HSD3B7,Gene,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7",Short chain dehydrogenase/reductase superfamily,"80270,ENSG00000099377,OTTHUMG00000132417,uc002eaf.3,AF277719",9606
+RNU6ATAC22P,Gene,"RNA, U6atac small nuclear 22, pseudogene",,"106479553,ENSG00000252603,,uc062erz.1,",9606
+SCGB1D4,Gene,secretoglobin family 1D member 4,Secretoglobins,"404552,ENSG00000197745,OTTHUMG00000167510,uc001ntd.2,AY236538",9606
+RPL15P13,Gene,ribosomal protein L15 pseudogene 13,,"100131338,ENSG00000226428,OTTHUMG00000019093,,",9606
+SNAP23,Gene,synaptosome associated protein 23,SNAREs,"8773,ENSG00000092531,OTTHUMG00000130625,uc001zpz.3,Y09567",9606
+FGFR3P1,Gene,fibroblast growth factor receptor 3 pseudogene 1,,"100462812,ENSG00000230994,OTTHUMG00000031234,,",9606
+INHCAP,Gene,inhibitor of carbonic anhydrase pseudogene,Transferrins,"100129696,ENSG00000242337,OTTHUMG00000159751,,M22375",9606
+LINC02051,Gene,long intergenic non-protein coding RNA 2051,Long intergenic non-protein coding RNAs,"107986165,ENSG00000226859,OTTHUMG00000156619,,",9606
+ATP6V1E1P1,Gene,ATPase H+ transporting V1 subunit E1 pseudogene 1,,"343515,ENSG00000225099,OTTHUMG00000007618,,",9606
+ZNF385B,Gene,zinc finger protein 385B,MicroRNA protein coding host genes,"151126,ENSG00000144331,OTTHUMG00000154559,uc002unn.5,AK057999",9606
+ITPRIPL1,Gene,ITPRIP like 1,,"150771,ENSG00000198885,OTTHUMG00000155230,uc002svx.4,",9606
+CD52,Gene,CD52 molecule,CD molecules,"1043,ENSG00000169442,OTTHUMG00000003491,uc001bmc.4,",9606
+GABARAP,Gene,GABA type A receptor-associated protein,Autophagy related,"11337,ENSG00000170296,OTTHUMG00000102156,uc002gfb.4,AF161586",9606
+AQP6,Gene,aquaporin 6,Aquaporins,"363,ENSG00000086159,OTTHUMG00000133548,uc058nuf.1,AL137716",9606
+EIF1AD,Gene,eukaryotic translation initiation factor 1A domain containing,,"84285,ENSG00000175376,OTTHUMG00000166671,uc001ogm.3,AK094129",9606
+UNC5D,Gene,unc-5 netrin receptor D,"""I-set domain containing|Ig-like cell adhesion molecule family""","137970,ENSG00000156687,OTTHUMG00000157145,uc003xjr.3,AB055056",9606
+GSTA12P,Gene,"glutathione S-transferase alpha 12, pseudogene",,"647169,ENSG00000217228,OTTHUMG00000014852,,",9606
+GPRIN2,Gene,G protein regulated inducer of neurite outgrowth 2,,"9721,ENSG00000204175,OTTHUMG00000018107,uc057taj.1,BC011672",9606
+PRKX,Gene,protein kinase X-linked,AGC family kinases,"5613,ENSG00000183943,OTTHUMG00000021087,uc010nde.4,",9606
+FAM76A,Gene,family with sequence similarity 76 member A,,"199870,ENSG00000009780,OTTHUMG00000003729,uc001boq.4,AK098318",9606
+LSINCT5,Gene,long stress-induced non-coding transcript 5,Long non-coding RNAs with non-systematic symbols,"101234261,ENSG00000281560,OTTHUMG00000189568,uc063cau.1,GU228577",9606
+LINC01750,Gene,long intergenic non-protein coding RNA 1750,Long intergenic non-protein coding RNAs,"643355,ENSG00000231437,OTTHUMG00000011992,,",9606
+ARHGEF10L,Gene,Rho guanine nucleotide exchange factor 10 like,Dbl family Rho GEFs,"55160,ENSG00000074964,OTTHUMG00000002514,uc001ban.4,AB046846",9606
+LINC00519,Gene,long intergenic non-protein coding RNA 519,Long intergenic non-protein coding RNAs,"161342,ENSG00000258955,OTTHUMG00000171090,uc059blq.1,BG121773",9606
+LINC00244,Gene,long intergenic non-protein coding RNA 244,Long intergenic non-protein coding RNAs,"64433,ENSG00000279418,OTTHUMG00000189434,uc011kvw.2,AF107456",9606
+NDUFA6-DT,Gene,NDUFA6 divergent transcript,Divergent transcripts,"100132273,ENSG00000237037,OTTHUMG00000150917,uc003bcd.3,BC039542",9606
+RPL12P50,Gene,ribosomal protein L12 pseudogene 50,,"107075212,ENSG00000270916,OTTHUMG00000185066,,",9606
+RNU4-76P,Gene,"RNA, U4 small nuclear 76, pseudogene",,"106480549,ENSG00000201379,,uc063rar.1,",9606
+HOXA9,Gene,homeobox A9,HOXL subclass homeoboxes,"3205,ENSG00000078399,OTTHUMG00000023220,uc003syt.4,",9606
+HSPB6,Gene,heat shock protein family B (small) member 6,"""Small heat shock proteins|Protein phosphatase 1 regulatory subunits""","126393,ENSG00000004776,OTTHUMG00000048122,uc060xio.1,AJ278121",9606
+EXOC5P1,Gene,exocyst complex component 5 pseudogene 1,,"644548,ENSG00000180673,OTTHUMG00000160716,,",9606
+RNU6-751P,Gene,"RNA, U6 small nuclear 751, pseudogene",,"106479898,ENSG00000252191,,,",9606
+SPATA31C2,Gene,SPATA31 subfamily C member 2,,"645961,ENSG00000177910,OTTHUMG00000020164,,",9606
+TRF-GAA11-1,Gene,tRNA-Phe (anticodon GAA) 11-1,Cytoplasmic transfer RNA pseudogenes,"100189472,,,,HG983975",9606
+RNU7-38P,Gene,"RNA, U7 small nuclear 38 pseudogene",,"100147825,ENSG00000238446,,uc057twx.1,",9606
+SUN3,Gene,Sad1 and UNC84 domain containing 3,SUN family,"256979,ENSG00000164744,OTTHUMG00000155646,uc064dof.1,AF429967",9606
+LTBR,Gene,lymphotoxin beta receptor,Tumor necrosis factor receptor superfamily,"4055,ENSG00000111321,OTTHUMG00000168356,uc001qny.3,L04270",9606
+KIT,Gene,"KIT proto-oncogene, receptor tyrosine kinase","""Receptor tyrosine kinases|CD molecules|Immunoglobulin like domain containing""","3815,ENSG00000157404,OTTHUMG00000128713,uc010igr.4,S67773",9606
+FKBP15,Gene,FKBP prolyl isomerase family member 15,"""Protein phosphatase 1 regulatory subunits|FKBP prolyl isomerases""","23307,ENSG00000119321,OTTHUMG00000020518,uc004bgs.3,AB014574",9606
+ZNF471,Gene,zinc finger protein 471,Zinc fingers C2H2-type,"57573,ENSG00000196263,OTTHUMG00000181943,uc002qnh.4,AB037817",9606
+ERAP2,Gene,endoplasmic reticulum aminopeptidase 2,"""Aminopeptidases|M1 metallopeptidases""","64167,ENSG00000164308,OTTHUMG00000128718,uc003kmq.4,AF191545",9606
+NDFIP1P1,Gene,Nedd4 family interacting protein 1 pseudogene 1,,"100420792,ENSG00000255892,OTTHUMG00000169000,,",9606
+NACC2,Gene,NACC family member 2,"""BEN domain containing|BTB domain containing""","138151,ENSG00000148411,OTTHUMG00000020921,uc004cgv.4,BC015649",9606
+RPS10P27,Gene,ribosomal protein S10 pseudogene 27,,"100129556,ENSG00000267752,OTTHUMG00000158182,,",9606
+FRG1CP,Gene,"FSHD region gene 1 family member C, pseudogene",,"100289097,ENSG00000282826,OTTHUMG00000191531,,",9606
+SKP1P3,Gene,S-phase kinase associated protein 1 pseudogene 3,,"100101119,ENSG00000229707,OTTHUMG00000013209,,",9606
+ATP5MC2P2,Gene,ATP synthase membrane subunit c locus 2 pseudogene 2,,"319119,ENSG00000258401,OTTHUMG00000170869,,",9606
+AKR7A2P2,Gene,AKR7A2P pseudogene 1,,"159007,ENSG00000224341,,,",9606
+AAMP,Gene,angio associated migratory cell protein,WD repeat domain containing,"14,ENSG00000127837,OTTHUMG00000155202,uc002vhk.4,AB209790",9606
+OSBPL9P3,Gene,oxysterol binding protein like 9 pseudogene 3,,"100420591,ENSG00000255070,OTTHUMG00000167314,,",9606
+LINC01752,Gene,long intergenic non-protein coding RNA 1752,Long intergenic non-protein coding RNAs,"101929395,ENSG00000224961,OTTHUMG00000031876,,",9606
+URB1,Gene,URB1 ribosome biogenesis homolog,"""Armadillo like helical domain containing|Small nucleolar RNA protein coding host genes""","9875,ENSG00000142207,OTTHUMG00000064919,uc002ypn.3,AB011111",9606
+MIR1910,Gene,microRNA 1910,MicroRNAs,"100302261,ENSG00000283416,,,",9606
+SNORD55,Gene,"small nucleolar RNA, C/D box 55","Small nucleolar RNAs, C/D box","26811,ENSG00000264294,,uc057fwc.1,X96654",9606
+MAN2B2,Gene,mannosidase alpha class 2B member 2,Mannosidases alpha class 2,"23324,ENSG00000013288,OTTHUMG00000160073,uc003gjf.2,BC033307",9606
+SLC2A1,Gene,solute carrier family 2 member 1,Solute carriers,"6513,ENSG00000117394,OTTHUMG00000007657,uc001cik.3,K03195",9606
+PEX7,Gene,peroxisomal biogenesis factor 7,"""WD repeat domain containing|Peroxins""","5191,ENSG00000112357,OTTHUMG00000015650,uc003qhd.4,AF180814",9606
+RSF1,Gene,remodeling and spacing factor 1,PHD finger proteins,"51773,ENSG00000048649,OTTHUMG00000150433,uc001oyn.4,""AF380176|AF227948""",9606
+GSK3A,Gene,glycogen synthase kinase 3 alpha,,"2931,ENSG00000105723,OTTHUMG00000150722,uc002otb.2,",9606
+HSPD1P14,Gene,heat shock protein family D (Hsp60) member 1 pseudogene 14,,"100287140,ENSG00000227000,OTTHUMG00000057513,,",9606
+PTMAP14,Gene,prothymosin alpha pseudogene 14,,"105373140,,,,",9606
+RESP18,Gene,regulated endocrine specific protein 18,,"389075,ENSG00000182698,OTTHUMG00000150223,uc002vlc.4,AF437883",9606
+CLSPN,Gene,claspin,,"63967,ENSG00000092853,OTTHUMG00000004168,uc001bzi.4,AF297866",9606
+PEBP4,Gene,phosphatidylethanolamine binding protein 4,,"157310,ENSG00000134020,OTTHUMG00000163749,uc003xcn.2,BC020779",9606
+RN7SKP192,Gene,RN7SK pseudogene 192,,"106480892,ENSG00000223223,,uc058brt.1,",9606
+PRR21,Gene,proline rich 21,,"643905,,,uc010zod.3,AF453950",9606
+DACT2,Gene,dishevelled binding antagonist of beta catenin 2,dishevelled binding antagonist of beta catenin family,"168002,ENSG00000164488,OTTHUMG00000016046,uc003qwq.5,AF318336",9606
+LINC01447,Gene,long intergenic non-protein coding RNA 1447,Long intergenic non-protein coding RNAs,"101929086,ENSG00000236078,OTTHUMG00000155554,,",9606
+ITGB5-AS1,Gene,ITGB5 antisense RNA 1,Antisense RNAs,"100873992,ENSG00000244286,OTTHUMG00000159559,uc062nfr.1,",9606
+RPSAP38,Gene,ribosomal protein SA pseudogene 38,,"100130676,ENSG00000239694,OTTHUMG00000157678,,",9606
+CEP104,Gene,centrosomal protein 104,"""Cilia and flagella associated|TOG domain containing""","9731,ENSG00000116198,OTTHUMG00000003507,uc001aky.3,AB011134",9606
+MTCO2P24,Gene,MT-CO2 pseudogene 24,,"107075193,ENSG00000249990,OTTHUMG00000162716,,",9606
+SIGLEC25P,Gene,"sialic acid binding Ig like lectin 25, pseudogene",Sialic acid binding Ig like lectins,"114198,,,,",9606
+AMLCR2,Gene,acute myeloid leukemia chromosome region 2,,"9163,,,,",9606
+PRSS48,Gene,serine protease 48,Serine proteases,"345062,ENSG00000189099,OTTHUMG00000161673,uc011cif.3,BN000134",9606
+HSBP1L1,Gene,heat shock factor binding protein 1 like 1,,"440498,ENSG00000226742,OTTHUMG00000180375,uc002lno.5,",9606
+RNU6-471P,Gene,"RNA, U6 small nuclear 471, pseudogene",,"106479774,ENSG00000206671,,,",9606
+SNAR-E,Gene,small NF90 (ILF3) associated RNA E,Small NF90 (ILF3) associated RNAs,"100170220,,,,EU071072",9606
+UBE2E4P,Gene,ubiquitin conjugating enzyme E2 E4 pseudogene,Ubiquitin conjugating enzymes E2,"286480,ENSG00000233247,,,AF136176",9606
+RN7SL498P,Gene,"RNA, 7SL, cytoplasmic 498, pseudogene",,"106479405,ENSG00000263755,,uc061vgz.1,",9606
+MTND2P20,Gene,MT-ND2 pseudogene 20,,"100873226,ENSG00000229701,OTTHUMG00000153817,,",9606
+PTTG2,Gene,pituitary tumor-transforming 2,,"10744,ENSG00000250254,OTTHUMG00000160424,uc011bye.3,AF095288",9606
+EIF1P3,Gene,eukaryotic translation initiation factor 1 pseudogene 3,,"730144,ENSG00000231684,OTTHUMG00000037404,,",9606
+SUMO2P17,Gene,SUMO2 pseudogene 17,,"100128010,ENSG00000248278,OTTHUMG00000160509,,",9606
+MTCO3P46,Gene,MT-CO3 pseudogene 46,,"107075293,ENSG00000235761,OTTHUMG00000040741,,",9606
+KBTBD12,Gene,kelch repeat and BTB domain containing 12,BTB domain containing,"166348,ENSG00000187715,OTTHUMG00000150508,uc062nne.1,",9606
+SEPHS1P2,Gene,selenophosphate synthetase 1 pseudogene 2,,"100420292,ENSG00000258787,OTTHUMG00000171794,,",9606
+RPL31P33,Gene,ribosomal protein L31 pseudogene 33,,"442218,ENSG00000218049,OTTHUMG00000014877,,",9606
+LINC02802,Gene,long intergenic non-protein coding RNA 2802,Long intergenic non-protein coding RNAs,"100996732,ENSG00000232527,,,",9606
+PRKAR1A,Gene,protein kinase cAMP-dependent type I regulatory subunit alpha,,"5573,ENSG00000108946,OTTHUMG00000180128,uc002jhh.5,",9606
+PRSS45P,Gene,"serine protease 45, pseudogene",Serine proteases,"377047,ENSG00000188086,OTTHUMG00000133480,uc062jau.1,",9606
+MIR1199,Gene,microRNA 1199,MicroRNAs,"102466515,ENSG00000284081,,,",9606
+LRRC7,Gene,leucine rich repeat containing 7,PDZ domain containing,"57554,ENSG00000033122,OTTHUMG00000059194,uc001dep.4,",9606
+BPIFB2,Gene,BPI fold containing family B member 2,BPI fold containing,"80341,ENSG00000078898,OTTHUMG00000032232,uc002wyj.5,AF465765",9606
+MIR6894,Gene,microRNA 6894,MicroRNAs,"102466759,ENSG00000277474,,,",9606
+SLC10A6,Gene,solute carrier family 10 member 6,Solute carriers,"345274,ENSG00000145283,OTTHUMG00000130596,uc003hqd.2,AJ583502",9606
+ZFHX4,Gene,zinc finger homeobox 4,ZF class homeoboxes and pseudogenes,"79776,ENSG00000091656,OTTHUMG00000164557,uc003yau.3,",9606
+USP9YP20,Gene,USP9Y pseudogene 20,,"106480717,ENSG00000230854,OTTHUMG00000045263,,",9606
+DMBX1,Gene,diencephalon/mesencephalon homeobox 1,PRD class homeoboxes and pseudogenes,"127343,ENSG00000197587,OTTHUMG00000007982,uc001cpw.4,AB037699",9606
+RPL10,Gene,ribosomal protein L10,"""L ribosomal proteins|Small nucleolar RNA protein coding host genes""","6134,ENSG00000147403,OTTHUMG00000033189,uc033fbd.1,AB007170",9606
+SNORA11G,Gene,"small nucleolar RNA, H/ACA box 11G","Small nucleolar RNAs, H/ACA box","109616961,ENSG00000221750,,,",9606
+AK4,Gene,adenylate kinase 4,Adenylate kinases,"205,ENSG00000162433,OTTHUMG00000009033,uc001dby.3,AK025926",9606
+C4orf33,Gene,chromosome 4 open reading frame 33,,"132321,ENSG00000151470,OTTHUMG00000133347,uc003igu.5,AK091022",9606
+SLC4A8-AS1,Gene,SLC4A8 antisense RNA 1,Antisense RNAs,"107984508,ENSG00000271065,,,",9606
+HNRNPDLP3,Gene,HNRNPDL pseudogene 3,,"106481662,ENSG00000236185,OTTHUMG00000154905,,",9606
+PSMA5P1,Gene,PSMA5 pseudogene 1,,"117751738,ENSG00000235136,,,",9606
+MTND2P22,Gene,MT-ND2 pseudogene 22,,"100873228,ENSG00000231954,OTTHUMG00000153770,,",9606
+TRIAP1P1,Gene,TP53 regulated inhibitor of apoptosis 1 pseudogene 1,,"100289619,ENSG00000237956,OTTHUMG00000017859,,",9606
+ZBTB2,Gene,zinc finger and BTB domain containing 2,"""Zinc fingers C2H2-type|BTB domain containing""","57621,ENSG00000181472,OTTHUMG00000015834,uc003qoh.4,BC020172",9606
+TRK-TTT3-3,Gene,tRNA-Lys (anticodon TTT) 3-3,Cytoplasmic transfer RNAs,"100189234,,,,HG983935",9606
+FER1L6-AS2,Gene,FER1L6 antisense RNA 2,Antisense RNAs,"157376,ENSG00000253868,OTTHUMG00000165000,uc003yqy.3,AK057332",9606
+GLULP3,Gene,glutamate-ammonia ligase pseudogene 3,,"401708,ENSG00000254572,OTTHUMG00000166039,,",9606
+MAMDC4,Gene,MAM domain containing 4,,"158056,ENSG00000177943,OTTHUMG00000020951,uc064xfc.1,AL834531",9606
+OR52E3P,Gene,olfactory receptor family 52 subfamily E member 3 pseudogene,"Olfactory receptors, family 52","79533,ENSG00000226157,OTTHUMG00000066609,,",9606
+OR51A10P,Gene,olfactory receptor family 51 subfamily A member 10 pseudogene,"Olfactory receptors, family 51","81295,ENSG00000230484,OTTHUMG00000066900,,",9606
+PTK6,Gene,protein tyrosine kinase 6,"""SH2 domain containing|PTK6 family tyrosine kinases""","5753,ENSG00000101213,OTTHUMG00000033039,uc002yfg.5,U61412",9606
+ADGRL3-AS1,Gene,ADGRL3 antisense RNA 1,Antisense RNAs,"101927186,ENSG00000248692,OTTHUMG00000160691,,",9606
+FRA1E,Gene,"fragile site, aphidicolin type, common, fra(1)(p21.2)",,"2364,,,,",9606
+LINC00472,Gene,long intergenic non-protein coding RNA 472,Long intergenic non-protein coding RNAs,"79940,ENSG00000233237,OTTHUMG00000015006,uc063pmi.1,",9606
+RN7SL827P,Gene,"RNA, 7SL, cytoplasmic 827, pseudogene",,"106481762,ENSG00000271986,,uc063por.1,",9606
+AARD,Gene,alanine and arginine rich domain containing protein,,"441376,ENSG00000205002,OTTHUMG00000164961,uc003yof.4,""AB181519|BC140924""",9606
+PWWP2B,Gene,PWWP domain containing 2B,PWWP domain containing,"170394,ENSG00000171813,OTTHUMG00000019286,uc001lll.5,AK128663",9606
+RNU6-39P,Gene,"RNA, U6 small nuclear 39, pseudogene",,"100873758,ENSG00000207072,,,",9606
+TRAV27,Gene,T cell receptor alpha variable 27,T cell receptor alpha locus at 14q11.2,"28655,ENSG00000211809,OTTHUMG00000170656,uc058zej.1,AE000660",9606
+MOB3C,Gene,MOB kinase activator 3C,MOB kinase activators,"148932,ENSG00000142961,OTTHUMG00000007989,uc001cqf.4,AK091808",9606
+INCENP,Gene,inner centromere protein,Chromosomal passenger complex,"3619,ENSG00000149503,OTTHUMG00000167470,uc001nsx.2,AF282265",9606
+SNORD103B,Gene,"small nucleolar RNA, C/D box 103B","Small nucleolar RNAs, C/D box","692235,,,,",9606
+RNA5SP27,Gene,"RNA, 5S ribosomal pseudogene 27",,"100873359,ENSG00000200709,,uc058wvr.1,",9606
+PAMR1,Gene,peptidase domain containing associated with muscle regeneration 1,Sushi domain containing,"25891,ENSG00000149090,OTTHUMG00000166328,uc031xjx.2,",9606
+HLA-Y,Gene,"major histocompatibility complex, class I, Y (pseudogene)",Histocompatibility complex,"100127173,,,,""Y18651|AY344232|AY436316""",9606
+RNU6-1019P,Gene,"RNA, U6 small nuclear 1019, pseudogene",,"106480015,ENSG00000201294,,,",9606
+PCGF7P,Gene,polycomb group ring finger 7 pseudogene,"""Ring finger proteins|Polycomb group ring fingers""","253272,ENSG00000268140,OTTHUMG00000182931,,AC073539",9606
+PLIN4,Gene,perilipin 4,Perilipins,"729359,ENSG00000167676,OTTHUMG00000167571,uc002mar.3,AB067468",9606
+SCN3B,Gene,sodium voltage-gated channel beta subunit 3,"""V-set domain containing|Sodium voltage-gated channel beta subunits""","55800,ENSG00000166257,OTTHUMG00000166006,uc001pza.2,AJ243396",9606
+GORASP2,Gene,golgi reassembly stacking protein 2,PDZ domain containing,"26003,ENSG00000115806,OTTHUMG00000154072,uc002ugk.4,",9606
+ZNF735,Gene,zinc finger protein 735,Zinc fingers C2H2-type,"730291,ENSG00000223614,OTTHUMG00000156539,uc011kdn.3,",9606
+RPS15AP23,Gene,ribosomal protein S15a pseudogene 23,,"100271558,,,,",9606
+PGA4,Gene,pepsinogen A4,Pepsinogens,"643847,ENSG00000229183,OTTHUMG00000168073,uc001nqy.4,AP000437",9606
+S100A11P2,Gene,S100A11 pseudogene 2,,"347701,ENSG00000236592,OTTHUMG00000155025,,",9606
+LINC02506,Gene,long intergenic non-protein coding RNA 2506,Long intergenic non-protein coding RNAs,"102723828,ENSG00000251129,OTTHUMG00000160440,,",9606
+TRPM4,Gene,transient receptor potential cation channel subfamily M member 4,Transient receptor potential cation channels,"54795,ENSG00000130529,OTTHUMG00000183184,uc002pmw.4,AK000048",9606
+CD24P3,Gene,CD24 molecule pseudogene 3,,"937,,,,",9606
+EMILIN1,Gene,elastin microfibril interfacer 1,"""EMI domain containing|C1q domain containing""","11117,ENSG00000138080,OTTHUMG00000097069,uc002rii.5,AF088916",9606
+MTND4P26,Gene,MT-ND4 pseudogene 26,,"100873247,ENSG00000234065,OTTHUMG00000154456,,",9606
+RNA5SP132,Gene,"RNA, 5S ribosomal pseudogene 132",,"100873401,ENSG00000201595,,uc032rnr.2,",9606
+UQCRFS1P3,Gene,"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 pseudogene 3",,"100130994,ENSG00000217314,OTTHUMG00000014328,,",9606
+MTATP8P2,Gene,MT-ATP8 pseudogene 2,,"106479042,ENSG00000229604,OTTHUMG00000153275,,",9606
+ABI2,Gene,abl interactor 2,SCAR/WAVE complex,"10152,ENSG00000138443,OTTHUMG00000132879,uc002uzz.5,AF260261",9606
+DUSP5P2,Gene,dual specificity phosphatase 5 pseudogene 2,,"643459,ENSG00000235338,OTTHUMG00000155065,,",9606
+OR51E2,Gene,olfactory receptor family 51 subfamily E member 2,"Olfactory receptors, family 51","81285,ENSG00000167332,OTTHUMG00000133362,uc001lzk.3,AY033942",9606
+PPIAP76,Gene,peptidylprolyl isomerase A pseudogene 76,,"111082983,ENSG00000250484,OTTHUMG00000161295,,",9606
+PRSS22,Gene,serine protease 22,Serine proteases,"64063,ENSG00000005001,OTTHUMG00000128961,uc002cry.1,AF321182",9606
+LSM10,Gene,"LSM10, U7 small nuclear RNA associated",LSm proteins,"84967,ENSG00000181817,OTTHUMG00000008140,uc001cao.1,AF394685",9606
+TUT7,Gene,terminal uridylyl transferase 7,"""Zinc fingers CCHC-type|Non-canonical poly(A) polymerases|Terminal nucleotidyltransferases""","79670,ENSG00000083223,OTTHUMG00000020137,uc004aoq.4,AL832026",9606
+RNU7-196P,Gene,"RNA, U7 small nuclear 196 pseudogene",,"106479098,ENSG00000238913,,uc063enp.1,",9606
+FGD1,Gene,"FYVE, RhoGEF and PH domain containing 1","""Zinc fingers FYVE-type|Pleckstrin homology domain containing|Dbl family Rho GEFs""","2245,ENSG00000102302,OTTHUMG00000021627,uc004dtg.3,U11690",9606
+GFRA2,Gene,GDNF family receptor alpha 2,,"2675,ENSG00000168546,OTTHUMG00000163897,uc064kuz.1,AF002700",9606
+EMP2,Gene,epithelial membrane protein 2,,"2013,ENSG00000213853,OTTHUMG00000129752,uc002czx.4,U52100",9606
+DMD,Gene,dystrophin,"""Zinc fingers ZZ-type|MicroRNA protein coding host genes""","1756,ENSG00000198947,OTTHUMG00000021336,uc004dda.2,AF047505",9606
+DXO,Gene,decapping exoribonuclease,,"1797,ENSG00000204348,OTTHUMG00000031272,,AF059252",9606
+PODXL2,Gene,podocalyxin like 2,,"50512,ENSG00000114631,OTTHUMG00000159642,uc003ejq.4,AF219137",9606
+OR5D16,Gene,olfactory receptor family 5 subfamily D member 16,"Olfactory receptors, family 5","390144,ENSG00000205029,OTTHUMG00000154233,uc010rio.2,AB065783",9606
+RBP1,Gene,retinol binding protein 1,Fatty acid binding protein family,"5947,ENSG00000114115,OTTHUMG00000155751,uc003eti.2,",9606
+PTPN22,Gene,protein tyrosine phosphatase non-receptor type 22,Protein tyrosine phosphatases non-receptor type,"26191,ENSG00000134242,OTTHUMG00000011936,uc001eds.4,AF001846",9606
+HSPD1P1,Gene,heat shock protein family D (Hsp60) member 1 pseudogene 1,,"643300,ENSG00000213430,OTTHUMG00000161914,,",9606
+SNORD103C,Gene,"small nucleolar RNA, C/D box 103C","Small nucleolar RNAs, C/D box","692200,,,,",9606
+MINDY4B,Gene,MINDY family member 4B,MINDY deubiquitinases,"646951,ENSG00000214237,OTTHUMG00000159843,,",9606
+EHMT1,Gene,euchromatic histone lysine methyltransferase 1,"""Ankyrin repeat domain containing|Lysine methyltransferases|SET domain containing""","79813,ENSG00000181090,OTTHUMG00000020995,uc011mfc.3,AY083210",9606
+OR7E62P,Gene,olfactory receptor family 7 subfamily E member 62 pseudogene,"Olfactory receptors, family 7","26479,ENSG00000234896,OTTHUMG00000154168,,U86259",9606
+RPS11P4,Gene,ribosomal protein S11 pseudogene 4,,"100271052,,,,",9606
+ERV3-1,Gene,"endogenous retrovirus group 3 member 1, envelope",Envelope ERV derived genes,"2086,ENSG00000213462,OTTHUMG00000165023,uc011kdr.3,AK295189",9606
+ACSL5,Gene,acyl-CoA synthetase long chain family member 5,Acyl-CoA synthetase family,"51703,ENSG00000197142,OTTHUMG00000019060,uc001kzs.4,AB033899",9606
+LINC01289,Gene,long intergenic non-protein coding RNA 1289,Long intergenic non-protein coding RNAs,"286184,ENSG00000253734,OTTHUMG00000164399,,BC037345",9606
+PITPNM2-AS1,Gene,PITPNM2 antisense RNA 1,Antisense RNAs,"100507091,ENSG00000251497,OTTHUMG00000168847,,",9606
+FXYD2,Gene,FXYD domain containing ion transport regulator 2,,"486,ENSG00000137731,OTTHUMG00000166990,uc001prj.2,AF241236",9606
+RN7SKP132,Gene,RN7SK pseudogene 132,,"106480874,ENSG00000251810,,uc057sko.1,",9606
+ABHD4,Gene,"abhydrolase domain containing 4, N-acyl phospholipase B",Abhydrolase domain containing,"63874,ENSG00000100439,OTTHUMG00000028686,uc001wgm.4,AK022878",9606
+DRAM2,Gene,DNA damage regulated autophagy modulator 2,,"128338,ENSG00000156171,OTTHUMG00000011911,uc001ead.5,AY336747",9606
+LINC02835,Gene,long intergenic non-protein coding RNA 2835,Long intergenic non-protein coding RNAs,"105377256,ENSG00000285711,,,",9606
+MTND4LP15,Gene,MT-ND4L pseudogene 15,,"107131123,,,,",9606
+NCOA2,Gene,nuclear receptor coactivator 2,"""Basic helix-loop-helix proteins|Lysine acetyltransferases""","10499,ENSG00000140396,OTTHUMG00000164671,uc003xyn.2,X97674",9606
+ZNF503-AS2,Gene,ZNF503 antisense RNA 2,Antisense RNAs,"100131213,ENSG00000237149,OTTHUMG00000018528,uc010qlf.3,BC029963",9606
+ARX,Gene,aristaless related homeobox,PRD class homeoboxes and pseudogenes,"170302,ENSG00000004848,OTTHUMG00000021275,uc004dbp.5,AY038071",9606
+MIR3148,Gene,microRNA 3148,MicroRNAs,"100422876,ENSG00000264788,,uc022atl.1,",9606
+C8orf33,Gene,chromosome 8 open reading frame 33,,"65265,ENSG00000182307,OTTHUMG00000165256,uc003zfc.5,",9606
+MYT1L-AS1,Gene,MYT1L antisense RNA 1,Antisense RNAs,"730811,ENSG00000225619,OTTHUMG00000151409,,",9606
+WDR11-AS1,Gene,WDR11 antisense RNA 1,Antisense RNAs,"283089,ENSG00000227165,OTTHUMG00000019169,uc057wjr.1,AK094649",9606
+CLDN19,Gene,claudin 19,Claudins,"149461,ENSG00000164007,OTTHUMG00000007524,uc001chu.3,AK096063",9606
+CDY10P,Gene,chromodomain Y-linked 10 pseudogene,,"140043,ENSG00000226042,OTTHUMG00000043576,,",9606
+PMS2P5,Gene,"PMS1 homolog 2, mismatch repair system component pseudogene 5",,"5383,ENSG00000123965,OTTHUMG00000156014,,""D38439|D38436""",9606
+CYCSP14,Gene,CYCS pseudogene 14,,"360170,,,,AF533175",9606
+MIR7974,Gene,microRNA 7974,MicroRNAs,"102465856,ENSG00000274713,,,",9606
+PHEX,Gene,phosphate regulating endopeptidase homolog X-linked,M13 metallopeptidases,"5251,ENSG00000102174,OTTHUMG00000021241,uc004dah.5,U82970",9606
+TRR-TCG4-1,Gene,tRNA-Arg (anticodon TCG) 4-1,Cytoplasmic transfer RNAs,"7232,,,,HG983618",9606
+UBL5P2,Gene,ubiquitin like 5 pseudogene 2,,"100287215,ENSG00000266282,OTTHUMG00000179584,,",9606
+C2CD4B,Gene,C2 calcium dependent domain containing 4B,C2 domain containing,"388125,ENSG00000205502,OTTHUMG00000171959,uc002ahg.3,BM023530",9606
+ART4,Gene,ADP-ribosyltransferase 4 (inactive) (Dombrock blood group),"""Blood group antigens|CD molecules|ADP-ribosyltransferase family""","420,ENSG00000111339,OTTHUMG00000168738,uc001rcl.2,X95826",9606
+PFN1P6,Gene,profilin 1 pseudogene 6,,"645126,ENSG00000227212,OTTHUMG00000013834,,",9606
+TAF1A,Gene,"TATA-box binding protein associated factor, RNA polymerase I subunit A",,"9015,ENSG00000143498,OTTHUMG00000037544,uc009xdz.2,L39060",9606
+LIMK1,Gene,LIM domain kinase 1,"""LIM domain containing|PDZ domain containing|LIMK/TESK kinase family""","3984,ENSG00000106683,OTTHUMG00000023448,uc003uaa.3,D26309",9606
+USP27X,Gene,ubiquitin specific peptidase 27 X-linked,Ubiquitin specific peptidases,"389856,ENSG00000273820,OTTHUMG00000189037,uc033edm.2,AW851065",9606
+RPL23AP76,Gene,ribosomal protein L23a pseudogene 76,,"441781,ENSG00000226156,OTTHUMG00000058805,,",9606
+WDR43,Gene,WD repeat domain 43,"""WD repeat domain containing|UTPa subcomplex|Small nucleolar RNA protein coding host genes""","23160,ENSG00000163811,OTTHUMG00000152015,uc002rmo.3,D87716",9606
+PCDHB18P,Gene,protocadherin beta 18 pseudogene,Clustered protocadherins,"54660,ENSG00000146001,OTTHUMG00000167484,,AF152528",9606
+FEM1B,Gene,fem-1 homolog B,Ankyrin repeat domain containing,"10116,ENSG00000169018,OTTHUMG00000133285,uc002arg.4,",9606
+CLEC3A,Gene,C-type lectin domain family 3 member A,C-type lectin domain containing,"10143,ENSG00000166509,OTTHUMG00000137620,uc002ffh.6,AF077345",9606
+IGSF10,Gene,immunoglobulin superfamily member 10,"""I-set domain containing|MicroRNA protein coding host genes""","285313,ENSG00000152580,OTTHUMG00000159856,uc011bod.3,AY273815",9606
+ZXDA,Gene,zinc finger X-linked duplicated A,Zinc fingers C2H2-type,"7789,ENSG00000198205,OTTHUMG00000021688,uc004dve.4,L14787",9606
+OSBPL3,Gene,oxysterol binding protein like 3,"""Oxysterol binding proteins|Pleckstrin homology domain containing""","26031,ENSG00000070882,OTTHUMG00000023277,uc003sxf.5,AB014604",9606
+CCDC28B,Gene,coiled-coil domain containing 28B,,"79140,ENSG00000160050,OTTHUMG00000005738,uc001bul.2,BC022848",9606
+OR56A3,Gene,olfactory receptor family 56 subfamily A member 3,"Olfactory receptors, family 56","390083,ENSG00000184478,OTTHUMG00000165373,uc010qzt.3,",9606
+RNU7-124P,Gene,"RNA, U7 small nuclear 124 pseudogene",,"106479072,ENSG00000251745,,uc064tds.1,",9606
+SKOR1,Gene,SKI family transcriptional corepressor 1,SKI transcriptional corepressors,"390598,ENSG00000188779,OTTHUMG00000170878,uc031qsn.2,",9606
+RN7SL464P,Gene,"RNA, 7SL, cytoplasmic 464, pseudogene",,"106481049,ENSG00000243872,,uc057pof.1,",9606
+CLINT1,Gene,clathrin interactor 1,,"9685,ENSG00000113282,OTTHUMG00000163527,uc003lxj.3,AF434813",9606
+RRM2B,Gene,ribonucleotide reductase regulatory TP53 inducible subunit M2B,,"50484,ENSG00000048392,OTTHUMG00000164776,uc003ykn.4,AB036532",9606
+NPM1P28,Gene,nucleophosmin 1 pseudogene 28,,"646849,ENSG00000240804,OTTHUMG00000159461,,",9606
+LINC01951,Gene,long intergenic non-protein coding RNA 1951,Long intergenic non-protein coding RNAs,"441116,ENSG00000204754,OTTHUMG00000163125,,",9606
+MIR4507,Gene,microRNA 4507,MicroRNAs,"100616135,ENSG00000264024,,,",9606
+RN7SL842P,Gene,"RNA, 7SL, cytoplasmic 842, pseudogene",,"106479529,ENSG00000243066,,uc060uqg.1,",9606
+LINC02479,Gene,long intergenic non-protein coding RNA 2479,Long intergenic non-protein coding RNAs,"105377420,ENSG00000251326,OTTHUMG00000161766,,",9606
+VN1R84P,Gene,vomeronasal 1 receptor 84 pseudogene,Vomeronasal receptors,"100312829,ENSG00000268117,OTTHUMG00000182871,,",9606
+MIR499B,Gene,microRNA 499b,MicroRNAs,"100616134,ENSG00000283441,,,",9606
+ODF4,Gene,outer dense fiber of sperm tails 4,,"146852,ENSG00000184650,OTTHUMG00000108190,uc002gle.2,AB081120",9606
+FAM197Y5,Gene,family with sequence similarity 197 Y-linked member 5,Long non-coding RNAs with FAM root symbol,"100289150,ENSG00000225516,OTTHUMG00000187485,uc004frv.2,",9606
+TMEM25,Gene,transmembrane protein 25,C2-set domain containing,"84866,ENSG00000149582,OTTHUMG00000166339,uc010rye.3,AK075437",9606
+CENPVL3,Gene,centromere protein V like 3,,"347549,ENSG00000224109,OTTHUMG00000021534,uc284rbj.1,",9606
+RNA5SP101,Gene,"RNA, 5S ribosomal pseudogene 101",,"100873372,ENSG00000252845,,uc061lyc.1,",9606
+ELF2P4,Gene,ELF2 pseudogene 4,,"644935,ENSG00000225406,,,",9606
+ERVK-18,Gene,endogenous retrovirus group K member 18,,"100775105,,,,""FN806828|AF012336""",9606
+RNU5E-9P,Gene,"RNA, U5E small nuclear 9, pseudogene",,"100873840,ENSG00000223096,,uc061qbn.1,",9606
+AKR1B1P8,Gene,aldo-keto reductase family 1 member B1 pseudogene 8,,"392525,ENSG00000231371,OTTHUMG00000022241,,",9606
+MTND5P20,Gene,MT-ND5 pseudogene 20,,"100873269,ENSG00000238256,OTTHUMG00000011801,,",9606
+LINC01868,Gene,long intergenic non-protein coding RNA 1868,Long intergenic non-protein coding RNAs,"107985924,ENSG00000234169,OTTHUMG00000153160,,",9606
+NLRC4,Gene,NLR family CARD domain containing 4,"""NLR family|Caspase recruitment domain containing""","58484,ENSG00000091106,OTTHUMG00000152107,uc061hxs.1,AF376061",9606
+SUMO2P11,Gene,SUMO2 pseudogene 11,,"100422250,,,,",9606
+MTMR9,Gene,myotubularin related protein 9,Myotubularins,"66036,ENSG00000104643,OTTHUMG00000090647,uc003wtm.4,AJ297823",9606
+MAP3K4-AS1,Gene,MAP3K4 antisense RNA 1,Antisense RNAs,"117981787,ENSG00000272841,,,AK094629",9606
+MIR573,Gene,microRNA 573,MicroRNAs,"693158,ENSG00000207697,,uc021xmx.1,",9606
+MIR1469,Gene,microRNA 1469,MicroRNAs,"100302258,ENSG00000283888,,uc021swi.1,",9606
+RPL23P8,Gene,ribosomal protein L23 pseudogene 8,,"222901,ENSG00000219451,,,",9606
+SYN3-AS1,Gene,SYN3 antisense RNA 1,Antisense RNAs,"105373004,ENSG00000236054,OTTHUMG00000058269,,",9606
+BTN2A3P,Gene,"butyrophilin subfamily 2 member A3, pseudogene",Butyrophilins,"54718,ENSG00000124549,OTTHUMG00000014453,,AL021917",9606
+TNFRSF10C,Gene,TNF receptor superfamily member 10c,"""CD molecules|Tumor necrosis factor receptor superfamily""","8794,ENSG00000173535,OTTHUMG00000097844,uc003xcy.4,AF012536",9606
+LTB,Gene,lymphotoxin beta,Tumor necrosis factor superfamily,"4050,ENSG00000227507,OTTHUMG00000031136,uc011feg.3,L11015",9606
+PCDHA11,Gene,protocadherin alpha 11,Clustered protocadherins,"56138,ENSG00000249158,OTTHUMG00000163369,uc003lia.4,AF152476",9606
+OR5AK1P,Gene,olfactory receptor family 5 subfamily AK member 1 pseudogene,"Olfactory receptors, family 5","81230,ENSG00000255083,OTTHUMG00000167020,,",9606
+M1AP,Gene,meiosis 1 associated protein,,"130951,ENSG00000159374,OTTHUMG00000152918,uc002smy.3,",9606
+LINC02634,Gene,long intergenic non-protein coding RNA 2634,Long intergenic non-protein coding RNAs,"105376493,ENSG00000233200,,,",9606
+CYCSP7,Gene,CYCS pseudogene 7,,"164837,ENSG00000269383,,,AF533168",9606
+KLHDC4,Gene,kelch domain containing 4,,"54758,ENSG00000104731,OTTHUMG00000137657,uc002fki.4,AK001742",9606
+H3P8,Gene,H3 histone pseudogene 8,,"115482693,ENSG00000270915,OTTHUMG00000184348,,",9606
+SUMO2P5,Gene,SUMO2 pseudogene 5,,"100526738,ENSG00000251663,OTTHUMG00000162466,,",9606
+SLC6A15,Gene,solute carrier family 6 member 15,Solute carriers,"55117,ENSG00000072041,OTTHUMG00000169742,uc001szv.5,AF265577",9606
+NKD1,Gene,NKD inhibitor of WNT signaling pathway 1,EF-hand domain containing,"85407,ENSG00000140807,OTTHUMG00000133169,uc002egg.3,AF358135",9606
+TRR-CCT2-1,Gene,tRNA-Arg (anticodon CCT) 2-1,Cytoplasmic transfer RNAs,"100189181,,,,HG983606",9606
+CDH18,Gene,cadherin 18,Type II classical cadherins,"1016,ENSG00000145526,OTTHUMG00000090578,uc003jgc.4,U59325",9606
+EIF3C,Gene,eukaryotic translation initiation factor 3 subunit C,"""Eukaryotic translation initiation factor 3|MicroRNA protein coding host genes""","8663,ENSG00000184110,OTTHUMG00000099443,uc010byi.4,U46025",9606
+CBX5,Gene,chromobox 5,"""Chromobox family|MicroRNA protein coding host genes""","23468,ENSG00000094916,OTTHUMG00000169700,uc001sfk.6,U26311",9606
+CACNA1A,Gene,calcium voltage-gated channel subunit alpha1 A,Calcium voltage-gated channel alpha1 subunits,"773,ENSG00000141837,OTTHUMG00000044590,uc002mwy.5,U79666",9606
+OR2R1P,Gene,"olfactory receptor family 2 subfamily R member 1, pseudogene","Olfactory receptors, family 2","392132,ENSG00000236853,OTTHUMG00000154318,,",9606
+UTY,Gene,"ubiquitously transcribed tetratricopeptide repeat containing, Y-linked","""Lysine demethylases|Tetratricopeptide repeat domain containing|Minor histocompatibility antigens""","7404,ENSG00000183878,OTTHUMG00000036319,uc004fsx.3,AF000994",9606
+EZR,Gene,ezrin,"""A-kinase anchoring proteins|FERM domain containing""","7430,ENSG00000092820,OTTHUMG00000015917,uc003qru.5,AF187552",9606
+TRG-GCC1-3,Gene,tRNA-Gly (anticodon GCC) 1-3,Cytoplasmic transfer RNAs,"100189230,,,,HG983808",9606
+RN7SL169P,Gene,"RNA, 7SL, cytoplasmic 169, pseudogene",,"106480372,ENSG00000242547,,uc063dyl.1,",9606
+EBF3,Gene,EBF transcription factor 3,"""Early B-cell factors|MicroRNA protein coding host genes|IPT domain containing""","253738,ENSG00000108001,OTTHUMG00000019265,uc001lki.3,",9606
+GOLGA6L4,Gene,golgin A6 family like 4,Golgin related,"643707,ENSG00000184206,OTTHUMG00000163050,uc059mrg.1,BC101294",9606
+MIR4662B,Gene,microRNA 4662b,MicroRNAs,"100616255,ENSG00000263735,,,",9606
+ACBD5,Gene,acyl-CoA binding domain containing 5,,"91452,ENSG00000107897,OTTHUMG00000017854,uc001ito.4,AF505653",9606
+RN7SL581P,Gene,"RNA, 7SL, cytoplasmic 581, pseudogene",,"106479434,ENSG00000242657,,uc064zse.1,",9606
+RNU6-207P,Gene,"RNA, U6 small nuclear 207, pseudogene",,"106481766,ENSG00000206864,,,",9606
+ZNF123P,Gene,"zinc finger protein 123, pseudogene",,"100188891,ENSG00000255259,OTTHUMG00000165775,,S52506",9606
+LINC01461,Gene,long intergenic non-protein coding RNA 1461,Long intergenic non-protein coding RNAs,"103695366,,,,DA091614",9606
+CYP7B1,Gene,cytochrome P450 family 7 subfamily B member 1,Cytochrome P450 family 7,"9420,ENSG00000172817,OTTHUMG00000164387,uc003xvj.3,AF029403",9606
+KATNAL2,Gene,katanin catalytic subunit A1 like 2,AAA ATPases,"83473,ENSG00000167216,OTTHUMG00000179408,uc060ows.1,BC034999",9606
+SPATA25,Gene,spermatogenesis associated 25,,"128497,ENSG00000149634,OTTHUMG00000032628,uc002xqf.4,AL008726",9606
+ZNF286A,Gene,zinc finger protein 286A,Zinc fingers C2H2-type,"57335,ENSG00000187607,OTTHUMG00000166448,uc010vwa.3,AF217226",9606
+TRE-CTC10-1,Gene,tRNA-Glu (CTC) 10-1,,"100189532,,,,HG983768",9606
+SMIM39,Gene,small integral membrane protein 39,,"113523639,ENSG00000284479,OTTHUMG00000131657,,",9606
+FEZF1-AS1,Gene,FEZF1 antisense RNA 1,Antisense RNAs,"154860,ENSG00000230316,OTTHUMG00000157095,uc010lko.2,AK057037",9606
+RNA5SP167,Gene,"RNA, 5S ribosomal pseudogene 167",,"100873432,ENSG00000202331,,uc063ado.1,",9606
+ZNF112,Gene,zinc finger protein 112,Zinc fingers C2H2-type,"7771,ENSG00000062370,OTTHUMG00000182357,uc002ozc.5,AF198358",9606
+PRKCH,Gene,protein kinase C eta,"""C2 domain containing protein kinases|AGC family kinases""","5583,ENSG00000027075,OTTHUMG00000152341,uc001xfn.4,M55284",9606
+RABGAP1L-IT1,Gene,RABGAP1L intronic transcript 1,Intronic transcripts,"106480742,ENSG00000223525,OTTHUMG00000034938,uc057nls.1,",9606
+C1GALT1,Gene,"core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1",Beta 3-glycosyltransferases,"56913,ENSG00000106392,OTTHUMG00000151912,uc003srb.4,AF155582",9606
+NLRP9,Gene,NLR family pyrin domain containing 9,"""NLR family|Pyrin domain containing""","338321,ENSG00000185792,OTTHUMG00000180920,uc002qly.3,AY154464",9606
+RN7SL143P,Gene,"RNA, 7SL, cytoplasmic 143, pseudogene",,"106479273,ENSG00000244003,,uc059ver.1,",9606
+RNU6-682P,Gene,"RNA, U6 small nuclear 682, pseudogene",,"106479867,ENSG00000200713,,,",9606
+MTCO1P35,Gene,MT-CO1 pseudogene 35,,"107075234,ENSG00000250630,OTTHUMG00000159143,,",9606
+BRD1,Gene,bromodomain containing 1,"""PHD finger proteins|PWWP domain containing|Bromodomain containing""","23774,ENSG00000100425,OTTHUMG00000150288,uc032qrr.2,AF005067",9606
+FNTAP2,Gene,"farnesyltransferase, CAAX box, alpha pseudogene 2",,"2341,ENSG00000230022,OTTHUMG00000016545,,",9606
+FRG2,Gene,FSHD region gene 2,,"448831,ENSG00000205097,OTTHUMG00000160339,uc003izv.4,",9606
+MYO1D,Gene,myosin ID,"""Protein phosphatase 1 regulatory subunits|Myosin heavy chains, class I""","4642,ENSG00000176658,OTTHUMG00000179636,uc002hho.2,AB018270",9606
+PLAAT2,Gene,phospholipase A and acyltransferase 2,Phospholipase A and acyltransferase family,"54979,ENSG00000133328,OTTHUMG00000167851,uc001nxg.1,",9606
+CCDC174,Gene,coiled-coil domain containing 174,,"51244,ENSG00000154781,OTTHUMG00000129837,uc003byw.4,AF151046",9606
+NTAN1,Gene,N-terminal asparagine amidase,,"123803,ENSG00000157045,OTTHUMG00000129849,uc002ddd.5,AF092440",9606
+LINC02374,Gene,long intergenic non-protein coding RNA 2374,Long intergenic non-protein coding RNAs,"105377600,ENSG00000249747,OTTHUMG00000160312,,",9606
+BAG1P1,Gene,BAG1 pseudogene 1,,"392442,ENSG00000232370,,,",9606
+TRBV7-7,Gene,T cell receptor beta variable 7-7,T cell receptor beta locus at 7q34,"28591,ENSG00000253291,OTTHUMG00000158872,uc064isl.1,L36092",9606
+ING2,Gene,inhibitor of growth family member 2,PHD finger proteins,"3622,ENSG00000168556,OTTHUMG00000150502,uc003ivs.2,AB012853",9606
+ANAPC1P6,Gene,ANAPC1 pseudogene 6,,"402096,ENSG00000235486,OTTHUMG00000153179,,",9606
+ADH5P4,Gene,ADH5 pseudogene 4,,"642443,ENSG00000233859,OTTHUMG00000014976,,AL391500",9606
+ATP2C2-AS1,Gene,ATP2C2 antisense RNA 1,Antisense RNAs,"105371374,ENSG00000261286,OTTHUMG00000176738,,",9606
+CASS4,Gene,Cas scaffold protein family member 4,Cas scaffold proteins,"57091,ENSG00000087589,OTTHUMG00000032788,uc002xxp.3,AJ276678",9606
+ZC3H12D,Gene,zinc finger CCCH-type containing 12D,Zinc fingers CCCH-type,"340152,ENSG00000178199,OTTHUMG00000015786,uc010kid.4,",9606
+CCDC184,Gene,coiled-coil domain containing 184,,"387856,ENSG00000177875,OTTHUMG00000169902,,",9606
+LINC00251,Gene,long intergenic non-protein coding RNA 251,Long intergenic non-protein coding RNAs,"552859,ENSG00000280725,OTTHUMG00000189557,uc022ave.2,BX110670",9606
+MIR125B1,Gene,microRNA 125b-1,MicroRNA MIR10/100 family,"406911,ENSG00000207971,,uc010rzr.1,",9606
+RN7SKP48,Gene,RN7SK pseudogene 48,,"106479116,ENSG00000201901,,uc062xxt.1,",9606
+FRA11E,Gene,"fragile site, aphidicolin type, common, fra(11)(p13)",,"2442,,,,",9606
+MIR3689F,Gene,microRNA 3689f,MicroRNAs,"100616212,ENSG00000266514,,uc022bph.1,",9606
+RNF152,Gene,ring finger protein 152,Ring finger proteins,"220441,ENSG00000176641,OTTHUMG00000132774,uc002lih.2,AK096495",9606
+RSL24D1P10,Gene,ribosomal L24 domain containing 1 pseudogene 10,,"100130699,,,,",9606
+MOB3A,Gene,MOB kinase activator 3A,MOB kinase activators,"126308,ENSG00000172081,OTTHUMG00000180353,uc002luv.4,AK095471",9606
+RN7SL665P,Gene,"RNA, 7SL, cytoplasmic 665, pseudogene",,"106481104,ENSG00000264169,,uc064wne.1,",9606
+SLC14A2,Gene,solute carrier family 14 member 2,Solute carriers,"8170,ENSG00000132874,OTTHUMG00000132616,uc010dnj.4,X96969",9606
+NAGLU,Gene,N-acetyl-alpha-glucosaminidase,Glycoside hydrolases,"4669,ENSG00000108784,OTTHUMG00000180240,uc002hzv.4,",9606
+RNA5SP201,Gene,"RNA, 5S ribosomal pseudogene 201",,"100873462,ENSG00000222248,,uc063llw.1,",9606
+FLNC-AS1,Gene,FLNC antisense RNA 1,Antisense RNAs,"110806300,ENSG00000242902,OTTHUMG00000158366,,",9606
+GACAT1,Gene,gastric cancer associated transcript 1,Long non-coding RNAs with non-systematic symbols,"104326057,ENSG00000232991,OTTHUMG00000153313,,DB096621",9606
+STPG2,Gene,sperm tail PG-rich repeat containing 2,,"285555,ENSG00000163116,OTTHUMG00000131009,uc003htt.3,BC036870",9606
+TDRD6,Gene,tudor domain containing 6,Tudor domain containing,"221400,ENSG00000180113,OTTHUMG00000014788,uc010jze.3,AF039442",9606
+ZNF75A,Gene,zinc finger protein 75a,Zinc fingers C2H2-type,"7627,ENSG00000162086,OTTHUMG00000129356,uc002cut.5,X91826",9606
+RNU6-148P,Gene,"RNA, U6 small nuclear 148, pseudogene",,"106479631,ENSG00000252823,,,",9606
+CHP1P1,Gene,CHP1 pseudogene 1,,"728549,ENSG00000248930,,,",9606
+LINC02873,Gene,long intergenic non-protein coding RNA 2873,Long intergenic non-protein coding RNAs,"283171,ENSG00000175728,OTTHUMG00000150705,uc031qfg.2,AK096377",9606
+N4BP3,Gene,NEDD4 binding protein 3,Leucine zipper tumor suppressor family,"23138,ENSG00000145911,OTTHUMG00000163456,uc003mik.2,AB002339",9606
+RNA5SP79,Gene,"RNA, 5S ribosomal pseudogene 79",,"100873313,ENSG00000202063,,uc057qhl.1,",9606
+RPL21P96,Gene,ribosomal protein L21 pseudogene 96,,"100271428,,,,",9606
+MACF1,Gene,microtubule actin crosslinking factor 1,"""EF-hand domain containing|Plakins""","23499,ENSG00000127603,OTTHUMG00000007754,uc057ezw.1,AB007934",9606
+TNPO3,Gene,transportin 3,"""Importins|Armadillo like helical domain containing""","23534,ENSG00000064419,OTTHUMG00000158409,uc003vol.3,AF145029",9606
+VMA21,Gene,vacuolar ATPase assembly factor VMA21,,"203547,ENSG00000160131,OTTHUMG00000024168,uc004feu.4,AK096835",9606
+LINC01645,Gene,long intergenic non-protein coding RNA 1645,Long intergenic non-protein coding RNAs,"102724661,ENSG00000224968,OTTHUMG00000040861,,",9606
+ENO1P2,Gene,enolase 1 pseudogene 2,,"100419098,ENSG00000258739,OTTHUMG00000171740,,",9606
+RNA5SP488,Gene,"RNA, 5S ribosomal pseudogene 488",,"100873730,ENSG00000201812,,uc061zbc.1,",9606
+TMCO2,Gene,transmembrane and coiled-coil domains 2,,"127391,ENSG00000188800,OTTHUMG00000005764,uc001cfe.3,AL050341",9606
+MIR1183,Gene,microRNA 1183,MicroRNAs,"100302122,ENSG00000221783,,uc022aal.1,",9606
+CALM1,Gene,calmodulin 1,"""Receptor ligands|EF-hand domain containing""","801,ENSG00000198668,OTTHUMG00000171044,uc001xyl.3,",9606
+CYP11A1,Gene,cytochrome P450 family 11 subfamily A member 1,Cytochrome P450 family 11,"1583,ENSG00000140459,OTTHUMG00000150716,uc002axt.3,AK056794",9606
+GEN1,Gene,GEN1 Holliday junction 5' flap endonuclease,,"348654,ENSG00000178295,OTTHUMG00000121173,uc002rct.3,AK098188",9606
+IGFL1P2,Gene,IGF like family member 1 pseudogene 2,,"727704,ENSG00000268238,OTTHUMG00000182502,,",9606
+RPL23AP64,Gene,ribosomal protein L23a pseudogene 64,,"649946,ENSG00000240970,OTTHUMG00000158473,,",9606
+HOPX,Gene,HOP homeobox,PRD class homeoboxes and pseudogenes,"84525,ENSG00000171476,OTTHUMG00000128768,uc003hcb.3,",9606
+GLYATL1,Gene,glycine-N-acyltransferase like 1,,"92292,ENSG00000166840,OTTHUMG00000167221,uc001nnf.4,AK091965",9606
+GPHB5,Gene,glycoprotein hormone subunit beta 5,Glycoprotein hormone subunits,"122876,ENSG00000179600,OTTHUMG00000168678,uc032bdx.1,AF467770",9606
+MRGPRX4,Gene,MAS related GPR family member X4,"G protein-coupled receptors, Class A orphans","117196,ENSG00000179817,OTTHUMG00000166442,uc001mnv.1,AY042216",9606
+OR9P1P,Gene,olfactory receptor family 9 subfamily P member 1 pseudogene,"Olfactory receptors, family 9","81382,ENSG00000239293,OTTHUMG00000154319,,",9606
+KCNAB3,Gene,potassium voltage-gated channel subfamily A regulatory beta subunit 3,"""Aldo-keto reductases|Potassium voltage-gated channel regulatory subunits""","9196,ENSG00000170049,OTTHUMG00000108170,uc002gjm.2,AF016411",9606
+RPL9P3,Gene,ribosomal protein L9 pseudogene 3,,"641616,ENSG00000240392,OTTHUMG00000157758,,AL121594",9606
+PTCD2P1,Gene,pentatricopeptide repeat domain 2 pseudogene 1,,"100131302,ENSG00000258456,OTTHUMG00000170987,,",9606
+RN7SL580P,Gene,"RNA, 7SL, cytoplasmic 580, pseudogene",,"106481081,ENSG00000240641,,uc063ozx.1,",9606
+SDF2L1,Gene,stromal cell derived factor 2 like 1,,"23753,ENSG00000128228,OTTHUMG00000150820,uc002zvf.4,",9606
+BBIP1P1,Gene,BBSome interacting protein 1 pseudogene 1,,"105373509,ENSG00000271532,OTTHUMG00000184265,,",9606
+RPL5P3,Gene,ribosomal protein L5 pseudogene 3,,"400385,ENSG00000242276,OTTHUMG00000157991,,AC013752",9606
+PIRC92,Gene,piwi-interacting RNA cluster 92,Piwi-interacting RNA clusters,"100313920,,,,",9606
+RNU6-553P,Gene,"RNA, U6 small nuclear 553, pseudogene",,"106480589,ENSG00000200917,,,",9606
+MYOCD,Gene,myocardin,Myocardin family,"93649,ENSG00000141052,OTTHUMG00000058767,uc002gnn.4,AF532596",9606
+POM121L1P,Gene,"POM121 transmembrane nucleoporin like 1, pseudogene",,"25812,ENSG00000183169,OTTHUMG00000151169,,",9606
+RNU6-1254P,Gene,"RNA, U6 small nuclear 1254, pseudogene",,"106481576,ENSG00000212568,,,",9606
+AGBL5-AS1,Gene,AGBL5 antisense RNA 1,Antisense RNAs,"100874031,ENSG00000231636,OTTHUMG00000151996,uc061hjm.1,",9606
+CSRNP2,Gene,cysteine and serine rich nuclear protein 2,Protein phosphatase 1 regulatory subunits,"81566,ENSG00000110925,OTTHUMG00000169578,uc001rxu.3,AJ298133",9606
+KRTAP10-8,Gene,keratin associated protein 10-8,Keratin associated proteins,"386681,ENSG00000187766,OTTHUMG00000057632,uc002zfo.1,AB076355",9606
+RNU6-1159P,Gene,"RNA, U6 small nuclear 1159, pseudogene",,"106481939,ENSG00000199803,,,",9606
+MIR365B,Gene,microRNA 365b,MicroRNA MIR365 family,"100126356,ENSG00000283978,,uc021tus.1,",9606
+MARK2P6,Gene,microtubule affinity regulating kinase 2 pseudogene 6,,"100421500,ENSG00000242062,OTTHUMG00000159807,,",9606
+SYCE1L,Gene,synaptonemal complex central element protein 1 like,,"100130958,ENSG00000205078,OTTHUMG00000176809,uc010vnh.2,",9606
+NIPSNAP3B,Gene,nipsnap homolog 3B,,"55335,ENSG00000165028,OTTHUMG00000020414,uc004bci.3,BC017914",9606
+BPIFA4P,Gene,"BPI fold containing family A member 4, pseudogene",BPI fold containing,"317716,ENSG00000183566,OTTHUMG00000032251,,AY180924",9606
+RPS27P2,Gene,ribosomal protein S27 pseudogene 2,,"654390,,,,AC090602",9606
+TMEM102,Gene,transmembrane protein 102,,"284114,ENSG00000181284,OTTHUMG00000132901,uc002ggx.1,AK094197",9606
+MIR4539,Gene,microRNA 4539,MicroRNAs,"100616374,ENSG00000265612,,uc059gds.1,",9606
+RYKP1,Gene,RYK pseudogene 1,,"6260,ENSG00000263219,OTTHUMG00000177729,,AC087742",9606
+DEFB131E,Gene,defensin beta 131E (pseudogene),"Defensins, beta","110806269,ENSG00000254507,OTTHUMG00000165312,,",9606
+LINC01895,Gene,long intergenic non-protein coding RNA 1895,Long intergenic non-protein coding RNAs,"105371964,ENSG00000259256,OTTHUMG00000172322,,",9606
+CEND1,Gene,cell cycle exit and neuronal differentiation 1,,"51286,ENSG00000184524,OTTHUMG00000133308,uc001lrh.2,AK074547",9606
+HNF1B,Gene,HNF1 homeobox B,HNF class homeoboxes,"6928,ENSG00000275410,OTTHUMG00000188478,uc002hok.5,BC017714",9606
+JADRR,Gene,JADE1 adjacent regulatory RNA,Long non-coding RNAs with non-systematic symbols,"101669763,ENSG00000280711,OTTHUMG00000189573,,KC469579",9606
+USP17L11,Gene,ubiquitin specific peptidase 17 like family member 11,,"100287178,ENSG00000233136,OTTHUMG00000160162,uc031sdh.1,",9606
+CLASP2,Gene,cytoplasmic linker associated protein 2,TOG domain containing,"23122,ENSG00000163539,OTTHUMG00000156489,uc062hxz.1,AB014527",9606
+RPL19P7,Gene,ribosomal protein L19 pseudogene 7,,"100131527,,,,",9606
+C19orf25,Gene,chromosome 19 open reading frame 25,,"148223,ENSG00000119559,OTTHUMG00000180092,uc060rbw.1,AK075267",9606
+LINC02167,Gene,long intergenic non-protein coding RNA 2167,Long intergenic non-protein coding RNAs,"400533,ENSG00000261122,OTTHUMG00000176021,,",9606
+LINC02573,Gene,long intergenic non-protein coding RNA 2573,Long intergenic non-protein coding RNAs,"111216285,ENSG00000233236,OTTHUMG00000074606,,",9606
+SALL4P4,Gene,spalt like transcription factor 4 pseudogene 4,,"100419855,,,,",9606
